@@ -3,6 +3,8 @@ This repository is being maintained for the purposes shown below.
 1. To store definition files used in BPIManager
 2. To maintain the script that enables editing definition files on the CLI
 
+*Output data have been published on gh-pages and available on BPIManager via [proxy](https://proxy.poyashi.me/?type=bpi)
+
 ## Directories
 
 | Dir | Description |
