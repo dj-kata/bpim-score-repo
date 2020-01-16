@@ -3639,4 +3639,81 @@
 	"difficultyLevel": "12",
 	"dpLevel": "0",
 	"coef": 1.3683
+}, {
+	"title": "Primitive Vibes",
+	"wr": "3117",
+	"avg": "2771",
+	"difficulty": "4",
+	"notes": "1564",
+	"bpm": "150",
+	"textage": "27/prmvibes.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "T-REX vs Velociraptor (In the Far east euphoria)",
+	"wr": "3239",
+	"avg": "2786",
+	"difficulty": "4",
+	"notes": "1636",
+	"bpm": "200",
+	"textage": "27/t_rex_vs.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "TECHNO Style Essentials",
+	"wr": "2881",
+	"avg": "2467",
+	"difficulty": "4",
+	"notes": "1453",
+	"bpm": "154",
+	"textage": "27/tecstyle.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "THE BRAVE MUST DIE",
+	"wr": "4110",
+	"avg": "3447",
+	"difficulty": "4",
+	"notes": "2075",
+	"bpm": "215",
+	"textage": "27/thebrave.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "TRIUMPH",
+	"wr": "3406",
+	"avg": "2822",
+	"difficulty": "4",
+	"notes": "1724",
+	"bpm": "183",
+	"textage": "27/triumph.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "深淵に捧ぐレクイエム",
+	"wr": "3053",
+	"avg": "2555",
+	"difficulty": "4",
+	"notes": "1537",
+	"bpm": "175",
+	"textage": "27/_shinen.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "華麗なる大犬円舞曲",
+	"wr": "3583",
+	"avg": "2879",
+	"difficulty": "4",
+	"notes": "1849",
+	"bpm": "60-147",
+	"textage": "27/_valse27.html?1AC00",
+	"difficultyLevel": "12",
+	"dpLevel": "0",
+	"coef": -1
 }]

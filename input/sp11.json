@@ -4365,4 +4365,147 @@
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
+}, {
+	"title": "Change Yourself",
+	"difficulty": "4",
+	"wr": "2558",
+	"avg": "2282",
+	"notes": "1288",
+	"bpm": "155",
+	"textage": "27/changeys.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Drop It",
+	"difficulty": "4",
+	"wr": "2801",
+	"avg": "2440",
+	"notes": "1419",
+	"bpm": "155",
+	"textage": "27/dropit.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Moving on",
+	"difficulty": "4",
+	"wr": "2995",
+	"avg": "2706",
+	"notes": "1501",
+	"bpm": "153",
+	"textage": "27/movingon.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Nasty Techniques",
+	"difficulty": "4",
+	"wr": "2663",
+	"avg": "2401",
+	"notes": "1338",
+	"bpm": "150",
+	"textage": "27/nastytec.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Ohayo!",
+	"difficulty": "4",
+	"wr": "2449",
+	"avg": "2166",
+	"notes": "1233",
+	"bpm": "150",
+	"textage": "27/ohayo.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Queen Kaguya",
+	"difficulty": "4",
+	"wr": "2643",
+	"avg": "2376",
+	"notes": "1330",
+	"bpm": "200",
+	"textage": "27/q_kaguya.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Rave lithosphere",
+	"difficulty": "4",
+	"wr": "2671",
+	"avg": "2396",
+	"notes": "1344",
+	"bpm": "170",
+	"textage": "27/ravelith.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "UNITE THE HEART",
+	"difficulty": "4",
+	"wr": "3333",
+	"avg": "3020",
+	"notes": "1676",
+	"bpm": "185",
+	"textage": "27/unitehrt.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "VALKYRIAS -英雄誕生-",
+	"difficulty": "4",
+	"wr": "2764",
+	"avg": "2553",
+	"notes": "1386",
+	"bpm": "184",
+	"textage": "27/valkyris.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Volcanic Dragon",
+	"difficulty": "4",
+	"wr": "2982",
+	"avg": "2697",
+	"notes": "1495",
+	"bpm": "175",
+	"textage": "27/vldragon.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "ガヴリールドロップキック",
+	"difficulty": "4",
+	"wr": "2694",
+	"avg": "2406",
+	"notes": "1362",
+	"bpm": "88-170",
+	"textage": "27/_gabriel.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "曼荼羅恋々",
+	"difficulty": "4",
+	"wr": "2774",
+	"avg": "2501",
+	"notes": "1392",
+	"bpm": "198",
+	"textage": "27/_mandara.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "令和(1991RAVE REMIX)",
+	"difficulty": "4",
+	"wr": "2222",
+	"avg": "1986",
+	"notes": "1117",
+	"bpm": "148",
+	"textage": "27/_reiwa_r.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
 }]
