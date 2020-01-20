@@ -36,20 +36,8 @@ class Build {
 
   async exec(){
     let updated = []
-    let endFlag = false
     try{
-      const res = JSON.parse(await this.getFile())
-      const m = this.mode === 0 ? "wr" : "avg"
-      for(let i = 0; i < res.length; ++i){
-        const item = res[i]
-        const userInput = endFlag ? item[m] : await this.readInput(`☆${item.difficultyLevel} ${item.title} (${i+1} of ${res.length}) mode:${m}\nCurrently:${item[m]}, New:`)
-        updated.push(Object.assign(item,{[m]:(userInput === "" || Number.isNaN(userInput)) ? item.wr : userInput}))
-        if(userInput === "end"){
-          endFlag = true
-          continue
-        }
-      }
-      return this.writeFile(updated)
+
     }catch(e){
       console.error(e)
       return false

@@ -2,6 +2,7 @@ const cac = require('cac')
 const cli = cac()
 const build = require('./src/build.js')
 const update = require('./src/update.js')
+const add = require('./src/add.js')
 
 cli
   .command('build', 'Build a JSON file from each files')
@@ -19,6 +20,14 @@ cli
   .option('--m <editMode>', '(option)Set edit mode.(0:WR 1:Kaiden-Average)')
   .action(options => {
     new update(options).exec()
+  }
+)
+
+cli
+  .command('add', 'Add metadata in each JSON files')
+  .option('--t <targetFile>', 'Set target file name(sp11/sp12/dp11/dp12)')
+  .action(options => {
+    new add(options).exec()
   }
 )
 
