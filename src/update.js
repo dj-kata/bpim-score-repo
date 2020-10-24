@@ -38,7 +38,7 @@ class Build {
     let updated = []
     let endFlag = false
     try{
-      const res = JSON.parse(await this.getFile())
+      let res = JSON.parse(await this.getFile())
       const m = this.mode === 0 ? "wr" : "avg"
       for(let i = 0; i < res.length; ++i){
         const item = res[i]

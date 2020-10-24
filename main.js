@@ -1,6 +1,7 @@
 const cac = require('cac')
 const cli = cac()
 const build = require('./src/build.js')
+const cbuild = require('./src/coef.js')
 const update = require('./src/update.js')
 const add = require('./src/add.js')
 
@@ -30,6 +31,15 @@ cli
     new add(options).exec()
   }
 )
+
+cli
+  .command('updateCoef', 'Update coef in input files')
+  .option('--t <targetFile>', 'Set target file name(sp11/sp12/dp11/dp12)')
+  .action(options => {
+    new cbuild(options).exec()
+  }
+)
+
 
 cli.help()
 cli.version("0.0.0.1")
