@@ -58,6 +58,7 @@ class CoefBuild {
           continue;
         }
         if(avg){
+          data[coef["Song title"]]["wr"] = avg["wr"];
           data[coef["Song title"]]["avg"] = avg["avg"];
         }
         data[coef["Song title"]]["coef"] = Math.round(coef["Coefficient"] * 100000) / 100000;

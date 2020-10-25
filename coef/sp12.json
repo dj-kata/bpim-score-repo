@@ -1,2641 +1,2102 @@
 [
  {
    "Song title": "AKASHIC BREAK[A]",
-   "Coefficient": 1.132431524,
-   "Std. Error": 0.075285024,
-   "t value": 15.04192277,
-   "Pr(>|t|)": 3.4e-8
+   "Coefficient": 1.140826252,
+   "Std. Error": 0.076899052,
+   "t value": 14.83537471,
+   "Pr(>|t|)": 3.89e-8
  },
  {
    "Song title": "Inferno of Fomalhaut[A]",
-   "Coefficient": 1.107002537,
-   "Std. Error": 0.029211734,
-   "t value": 37.89581683,
-   "Pr(>|t|)": 3.9e-12
+   "Coefficient": 1.024827112,
+   "Std. Error": 0.08848992,
+   "t value": 11.58128651,
+   "Pr(>|t|)": 4.08e-7
  },
  {
    "Song title": "LASER CRUSTER (IGNITE REMIX)[A]",
-   "Coefficient": 0.958609104,
-   "Std. Error": 0.02434824,
-   "t value": 39.3707754,
-   "Pr(>|t|)": 2.67e-12
+   "Coefficient": 0.969123422,
+   "Std. Error": 0.030871068,
+   "t value": 31.39261094,
+   "Pr(>|t|)": 2.53e-11
  },
  {
    "Song title": "LIGHTNING STRIKES[A]",
-   "Coefficient": 1.339860167,
-   "Std. Error": 0.110109963,
-   "t value": 12.16838264,
-   "Pr(>|t|)": 2.56e-7
+   "Coefficient": 1.338564604,
+   "Std. Error": 0.110910592,
+   "t value": 12.06886173,
+   "Pr(>|t|)": 2.77e-7
  },
  {
    "Song title": "Level 2[A]",
-   "Coefficient": 0.857424079,
-   "Std. Error": 0.03239785,
-   "t value": 26.46546209,
-   "Pr(>|t|)": 1.37e-10
+   "Coefficient": 0.868307202,
+   "Std. Error": 0.037366255,
+   "t value": 23.23773665,
+   "Pr(>|t|)": 4.93e-10
  },
  {
    "Song title": "Lords Of The Roundtable[A]",
-   "Coefficient": 0.961814285,
-   "Std. Error": 0.011811333,
-   "t value": 81.43147932,
-   "Pr(>|t|)": 1.91e-15
+   "Coefficient": 0.964110757,
+   "Std. Error": 0.01403396,
+   "t value": 68.69841045,
+   "Pr(>|t|)": 1.04e-14
  },
  {
    "Song title": "Lords Of The Roundtable[A]",
-   "Coefficient": 0.961814285,
-   "Std. Error": 0.011811333,
-   "t value": 81.43147932,
-   "Pr(>|t|)": 1.91e-15
+   "Coefficient": 0.964110757,
+   "Std. Error": 0.01403396,
+   "t value": 68.69841045,
+   "Pr(>|t|)": 1.04e-14
  },
  {
    "Song title": "Matt Silver[A]",
-   "Coefficient": 1.204272264,
-   "Std. Error": 0.040603775,
-   "t value": 29.6591205,
-   "Pr(>|t|)": 4.44e-11
+   "Coefficient": 1.205530272,
+   "Std. Error": 0.040974952,
+   "t value": 29.42115125,
+   "Pr(>|t|)": 4.8e-11
  },
  {
    "Song title": "Primitive Vibes[A]",
-   "Coefficient": 0.99353137,
-   "Std. Error": 0.013092749,
-   "t value": 75.88409228,
-   "Pr(>|t|)": 3.86e-15
- },
- {
-   "Song title": "Primitive Vibes[A]",
-   "Coefficient": 0.99353137,
-   "Std. Error": 0.013092749,
-   "t value": 75.88409228,
-   "Pr(>|t|)": 3.86e-15
- },
- {
-   "Song title": "Rave Patroller[A]",
-   "Coefficient": 1.16980102,
-   "Std. Error": 0.037078768,
-   "t value": 31.54908038,
-   "Pr(>|t|)": 2.41e-11
- },
- {
-   "Song title": "SCREW // owo // SCREW[A]",
-   "Coefficient": 0.92763199,
-   "Std. Error": 0.035307638,
-   "t value": 26.27284198,
-   "Pr(>|t|)": 1.47e-10
- },
- {
-   "Song title": "T-REX vs Velociraptor (In the Far east euphoria)[A]",
-   "Coefficient": 1.271052758,
-   "Std. Error": 0.065159765,
-   "t value": 19.50671174,
-   "Pr(>|t|)": 2.74e-9
- },
- {
-   "Song title": "TECHNO Style Essentials[A]",
-   "Coefficient": 0.856017855,
-   "Std. Error": 0.030076518,
-   "t value": 28.4613352,
-   "Pr(>|t|)": 6.67e-11
- },
- {
-   "Song title": "THE BRAVE MUST DIE[A]",
-   "Coefficient": 1.063084934,
-   "Std. Error": 0.019195512,
-   "t value": 55.38195192,
-   "Pr(>|t|)": 8.93e-14
- },
- {
-   "Song title": "THE F∀UST[A]",
-   "Coefficient": 1.328436977,
-   "Std. Error": 0.072702846,
-   "t value": 18.27214547,
-   "Pr(>|t|)": 5.18e-9
- },
- {
-   "Song title": "TRIUMPH[A]",
-   "Coefficient": 1.043437747,
-   "Std. Error": 0.022216125,
-   "t value": 46.96758475,
-   "Pr(>|t|)": 4.61e-13
- },
- {
-   "Song title": "Vinculum stellarum[A]",
-   "Coefficient": 1.372630365,
-   "Std. Error": 0.061357357,
-   "t value": 22.37108041,
-   "Pr(>|t|)": 7.16e-10
- },
- {
-   "Song title": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;[A]",
-   "Coefficient": 1.537837118,
-   "Std. Error": 0.157758744,
-   "t value": 9.74803096,
-   "Pr(>|t|)": 0.00000201
- },
- {
-   "Song title": "深淵に捧ぐレクイエム[A]",
-   "Coefficient": 0.981131493,
-   "Std. Error": 0.027444897,
-   "t value": 35.74914062,
-   "Pr(>|t|)": 6.97e-12
- },
- {
-   "Song title": "華麗なる大犬円舞曲[A]",
-   "Coefficient": 1.034009512,
-   "Std. Error": 0.040072846,
-   "t value": 25.80324591,
-   "Pr(>|t|)": 1.76e-10
- },
- {
-   "Song title": "Carmina[A]",
-   "Coefficient": 1.270760266,
-   "Std. Error": 0.044625174,
-   "t value": 28.47630944,
-   "Pr(>|t|)": 6.64e-11
- },
- {
-   "Song title": "Catch Our Fire![A]",
-   "Coefficient": 1.113514175,
-   "Std. Error": 0.036482402,
-   "t value": 30.52195383,
-   "Pr(>|t|)": 3.34e-11
- },
- {
-   "Song title": "DRUNK MONKY[A]",
-   "Coefficient": 1.000593221,
-   "Std. Error": 0.031660285,
-   "t value": 31.60404989,
-   "Pr(>|t|)": 2.37e-11
- },
- {
-   "Song title": "Dr. Chemical & Killing Machine[A]",
-   "Coefficient": 1.183317056,
-   "Std. Error": 0.017977467,
-   "t value": 65.82223516,
+   "Coefficient": 0.995775494,
+   "Std. Error": 0.015134614,
+   "t value": 65.79457506,
    "Pr(>|t|)": 1.6e-14
  },
  {
-   "Song title": "Drastic Dramatic[A]",
-   "Coefficient": 1.25185483,
-   "Std. Error": 0.037929517,
-   "t value": 33.00476558,
-   "Pr(>|t|)": 1.54e-11
+   "Song title": "Primitive Vibes[A]",
+   "Coefficient": 0.995775494,
+   "Std. Error": 0.015134614,
+   "t value": 65.79457506,
+   "Pr(>|t|)": 1.6e-14
  },
  {
-   "Song title": "EVANESCENT[A]",
-   "Coefficient": 1.339504915,
-   "Std. Error": 0.109465539,
-   "t value": 12.23677265,
-   "Pr(>|t|)": 2.43e-7
+   "Song title": "Rave Patroller[A]",
+   "Coefficient": 1.172203606,
+   "Std. Error": 0.037924543,
+   "t value": 30.90883926,
+   "Pr(>|t|)": 2.95e-11
  },
  {
-   "Song title": "GENE[A]",
-   "Coefficient": 1.392837298,
-   "Std. Error": 0.077728895,
-   "t value": 17.91917023,
-   "Pr(>|t|)": 6.26e-9
+   "Song title": "SCREW // owo // SCREW[A]",
+   "Coefficient": 0.9335648,
+   "Std. Error": 0.037646078,
+   "t value": 24.79846123,
+   "Pr(>|t|)": 2.6e-10
  },
  {
-   "Song title": "GO OVER WITH GLARE -ROOTAGE 26-[A]",
-   "Coefficient": 1.131207017,
-   "Std. Error": 0.066106993,
-   "t value": 17.11176031,
-   "Pr(>|t|)": 9.8e-9
+   "Song title": "T-REX vs Velociraptor (In the Far east euphoria)[A]",
+   "Coefficient": 1.241138348,
+   "Std. Error": 0.085069129,
+   "t value": 14.58976201,
+   "Pr(>|t|)": 4.56e-8
  },
  {
-   "Song title": "HARD BRAIN[A]",
-   "Coefficient": 1.292055588,
-   "Std. Error": 0.035422722,
-   "t value": 36.47533287,
-   "Pr(>|t|)": 5.7e-12
+   "Song title": "TECHNO Style Essentials[A]",
+   "Coefficient": 0.856520661,
+   "Std. Error": 0.030215468,
+   "t value": 28.34709222,
+   "Pr(>|t|)": 6.94e-11
  },
  {
-   "Song title": "HARD BRAIN[A]",
-   "Coefficient": 1.292055588,
-   "Std. Error": 0.035422722,
-   "t value": 36.47533287,
-   "Pr(>|t|)": 5.7e-12
+   "Song title": "THE BRAVE MUST DIE[A]",
+   "Coefficient": 1.064199332,
+   "Std. Error": 0.019874176,
+   "t value": 53.54684075,
+   "Pr(>|t|)": 1.25e-13
  },
  {
-   "Song title": "KILL EACH OTHER[A]",
-   "Coefficient": 1.19148409,
-   "Std. Error": 0.074993975,
-   "t value": 15.88773074,
-   "Pr(>|t|)": 2.01e-8
+   "Song title": "THE F∀UST[A]",
+   "Coefficient": 1.313114682,
+   "Std. Error": 0.084165256,
+   "t value": 15.60162401,
+   "Pr(>|t|)": 2.39e-8
  },
  {
-   "Song title": "L.F.O[A]",
-   "Coefficient": 1.523036704,
-   "Std. Error": 0.078398889,
-   "t value": 19.42676376,
-   "Pr(>|t|)": 2.85e-9
+   "Song title": "TRIUMPH[A]",
+   "Coefficient": 1.043444758,
+   "Std. Error": 0.022218056,
+   "t value": 46.96381916,
+   "Pr(>|t|)": 4.62e-13
  },
  {
-   "Song title": "LOST TECHNOLOGIE[A]",
-   "Coefficient": 1.345914305,
-   "Std. Error": 0.064459937,
-   "t value": 20.87985771,
-   "Pr(>|t|)": 1.41e-9
+   "Song title": "Vinculum stellarum[A]",
+   "Coefficient": 1.384709424,
+   "Std. Error": 0.06515314,
+   "t value": 21.25314949,
+   "Pr(>|t|)": 1.18e-9
  },
  {
-   "Song title": "Lethal Weapon[A]",
-   "Coefficient": 1.24067825,
-   "Std. Error": 0.040010927,
-   "t value": 31.00848533,
-   "Pr(>|t|)": 2.86e-11
+   "Song title": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;[A]",
+   "Coefficient": 1.445580661,
+   "Std. Error": 0.176122322,
+   "t value": 8.20782197,
+   "Pr(>|t|)": 0.0000094
  },
  {
-   "Song title": "Level One[A]",
-   "Coefficient": 1.0518353,
-   "Std. Error": 0.032676987,
-   "t value": 32.18887088,
-   "Pr(>|t|)": 1.97e-11
+   "Song title": "深淵に捧ぐレクイエム[A]",
+   "Coefficient": 0.982159259,
+   "Std. Error": 0.027850696,
+   "t value": 35.26515976,
+   "Pr(>|t|)": 7.97e-12
  },
  {
-   "Song title": "Macho Monky[A]",
-   "Coefficient": 1.213513128,
-   "Std. Error": 0.029880829,
-   "t value": 40.61176301,
-   "Pr(>|t|)": 1.96e-12
+   "Song title": "華麗なる大犬円舞曲[A]",
+   "Coefficient": 1.034372422,
+   "Std. Error": 0.040147413,
+   "t value": 25.76436065,
+   "Pr(>|t|)": 1.78e-10
  },
  {
-   "Song title": "ONIGOROSHI[A]",
-   "Coefficient": 0.915455649,
-   "Std. Error": 0.030184743,
-   "t value": 30.32842267,
-   "Pr(>|t|)": 3.56e-11
+   "Song title": "Carmina[A]",
+   "Coefficient": 1.136888646,
+   "Std. Error": 0.11985619,
+   "t value": 9.485439562,
+   "Pr(>|t|)": 0.00000257
  },
  {
-   "Song title": "Painful Fate[A]",
-   "Coefficient": 1.145066726,
-   "Std. Error": 0.040692107,
-   "t value": 28.13977498,
-   "Pr(>|t|)": 7.46e-11
- },
- {
-   "Song title": "Please Welcome Mr.C[A]",
-   "Coefficient": 1.294040111,
-   "Std. Error": 0.05901241,
-   "t value": 21.92827091,
-   "Pr(>|t|)": 8.71e-10
- },
- {
-   "Song title": "Red. by Jack Trance[A]",
-   "Coefficient": 1.014073129,
-   "Std. Error": 0.028098075,
-   "t value": 36.09048406,
-   "Pr(>|t|)": 6.34e-12
- },
- {
-   "Song title": "THE DAY OF JUBILATIONS[A]",
-   "Coefficient": 1.252060511,
-   "Std. Error": 0.043625524,
-   "t value": 28.70018275,
-   "Pr(>|t|)": 6.14e-11
- },
- {
-   "Song title": "The Rebellion of Sequencer[A]",
-   "Coefficient": 1.41592775,
-   "Std. Error": 0.059952857,
-   "t value": 23.61735254,
-   "Pr(>|t|)": 4.2e-10
- },
- {
-   "Song title": "Trill auf G[A]",
-   "Coefficient": 1.262240451,
-   "Std. Error": 0.029487783,
-   "t value": 42.8055388,
-   "Pr(>|t|)": 1.16e-12
- },
- {
-   "Song title": "Unbelief[A]",
-   "Coefficient": 1.206594859,
-   "Std. Error": 0.032787694,
-   "t value": 36.80023495,
-   "Pr(>|t|)": 5.22e-12
- },
- {
-   "Song title": "Visterhv[A]",
-   "Coefficient": 1.456741683,
-   "Std. Error": 0.106554694,
-   "t value": 13.67130463,
-   "Pr(>|t|)": 8.5e-8
- },
- {
-   "Song title": "X-DEN[A]",
-   "Coefficient": 1.160208728,
-   "Std. Error": 0.033706272,
-   "t value": 34.42115208,
-   "Pr(>|t|)": 1.01e-11
- },
- {
-   "Song title": "Xlo[A]",
-   "Coefficient": 1.193584434,
-   "Std. Error": 0.016455764,
-   "t value": 72.53290812,
-   "Pr(>|t|)": 6.05e-15
- },
- {
-   "Song title": "dAuntl3ss[A]",
-   "Coefficient": 1.171074101,
-   "Std. Error": 0.037359488,
-   "t value": 31.34609641,
-   "Pr(>|t|)": 2.57e-11
- },
- {
-   "Song title": "ruin of opals[A]",
-   "Coefficient": 1.182152246,
-   "Std. Error": 0.033393823,
-   "t value": 35.40032626,
-   "Pr(>|t|)": 7.68e-12
- },
- {
-   "Song title": "voltississimo[A]",
-   "Coefficient": 1.170671044,
-   "Std. Error": 0.059422686,
-   "t value": 19.70074267,
-   "Pr(>|t|)": 2.49e-9
- },
- {
-   "Song title": "お菓子の王国[A]",
-   "Coefficient": 1.50833402,
-   "Std. Error": 0.10144423,
-   "t value": 14.86860342,
-   "Pr(>|t|)": 3.8e-8
- },
- {
-   "Song title": "抱きしめてモナムール[A]",
-   "Coefficient": 1.348296369,
-   "Std. Error": 0.088286215,
-   "t value": 15.2718787,
-   "Pr(>|t|)": 2.94e-8
- },
- {
-   "Song title": "最小三倍完全数[A]",
-   "Coefficient": 1.217286189,
-   "Std. Error": 0.05083051,
-   "t value": 23.94794377,
-   "Pr(>|t|)": 3.66e-10
- },
- {
-   "Song title": "金野火織の金色提言[A]",
-   "Coefficient": 1.326006732,
-   "Std. Error": 0.053125493,
-   "t value": 24.9598952,
-   "Pr(>|t|)": 2.44e-10
- },
- {
-   "Song title": "255[A]",
-   "Coefficient": 1.101887068,
-   "Std. Error": 0.024976803,
-   "t value": 44.11641668,
-   "Pr(>|t|)": 8.61e-13
- },
- {
-   "Song title": "AA -rebuild-[A]",
-   "Coefficient": 1.549274734,
-   "Std. Error": 0.119884374,
-   "t value": 12.92307486,
-   "Pr(>|t|)": 1.45e-7
- },
- {
-   "Song title": "ANCHOR[A]",
-   "Coefficient": 1.514342529,
-   "Std. Error": 0.110286635,
-   "t value": 13.73097049,
-   "Pr(>|t|)": 8.15e-8
- },
- {
-   "Song title": "Antigravity[A]",
-   "Coefficient": 1.24721869,
-   "Std. Error": 0.063518477,
-   "t value": 19.63552574,
-   "Pr(>|t|)": 2.57e-9
- },
- {
-   "Song title": "Arca[A]",
-   "Coefficient": 1.105047111,
-   "Std. Error": 0.018947218,
-   "t value": 58.32239384,
-   "Pr(>|t|)": 5.33e-14
- },
- {
-   "Song title": "Boomy and The Boost[A]",
-   "Coefficient": 1.016676567,
-   "Std. Error": 0.015976888,
-   "t value": 63.63420519,
-   "Pr(>|t|)": 2.24e-14
- },
- {
-   "Song title": "DEADHEAT[A]",
-   "Coefficient": 1.383817178,
-   "Std. Error": 0.075063242,
-   "t value": 18.43535043,
-   "Pr(>|t|)": 4.75e-9
- },
- {
-   "Song title": "DEADHEAT[A]",
-   "Coefficient": 1.383817178,
-   "Std. Error": 0.075063242,
-   "t value": 18.43535043,
-   "Pr(>|t|)": 4.75e-9
- },
- {
-   "Song title": "DEATH†ZIGOQ ～怒りの高速爆走野郎～[A]",
-   "Coefficient": 1.373171772,
-   "Std. Error": 0.096367383,
-   "t value": 14.2493418,
-   "Pr(>|t|)": 5.72e-8
- },
- {
-   "Song title": "DropZ-Line-[A]",
-   "Coefficient": 0.976563369,
-   "Std. Error": 0.087724966,
-   "t value": 11.13210309,
-   "Pr(>|t|)": 5.9e-7
- },
- {
-   "Song title": "EMERALDAS[A]",
-   "Coefficient": 1.209958823,
-   "Std. Error": 0.036041583,
-   "t value": 33.57118933,
-   "Pr(>|t|)": 1.3e-11
- },
- {
-   "Song title": "Illusionary Waterlily[A]",
-   "Coefficient": 1.137973911,
-   "Std. Error": 0.020844855,
-   "t value": 54.59255559,
-   "Pr(>|t|)": 1.03e-13
- },
- {
-   "Song title": "Initiation[A]",
-   "Coefficient": 0.964465108,
-   "Std. Error": 0.048964802,
-   "t value": 19.69711048,
-   "Pr(>|t|)": 2.49e-9
- },
- {
-   "Song title": "Life Is A Game ft.DD\"ナカタ\"Metal[A]",
-   "Coefficient": 1.24930519,
-   "Std. Error": 0.061841071,
-   "t value": 20.2018685,
-   "Pr(>|t|)": 1.95e-9
- },
- {
-   "Song title": "NITROUS CANNON[A]",
-   "Coefficient": 1.354016985,
-   "Std. Error": 0.086603492,
-   "t value": 15.63466968,
-   "Pr(>|t|)": 2.35e-8
- },
- {
-   "Song title": "Papilio ulysses[A]",
-   "Coefficient": 1.015779612,
-   "Std. Error": 0.019824981,
-   "t value": 51.23735591,
-   "Pr(>|t|)": 1.94e-13
- },
- {
-   "Song title": "Persephone[A]",
-   "Coefficient": 1.110355066,
-   "Std. Error": 0.033295174,
-   "t value": 33.34882918,
-   "Pr(>|t|)": 1.39e-11
- },
- {
-   "Song title": "Rampage[A]",
-   "Coefficient": 1.093923322,
-   "Std. Error": 0.015440616,
-   "t value": 70.84713152,
-   "Pr(>|t|)": 7.65e-15
- },
- {
-   "Song title": "Raspberry Railgun[A]",
-   "Coefficient": 0.887587712,
-   "Std. Error": 0.045708077,
-   "t value": 19.41861858,
-   "Pr(>|t|)": 2.86e-9
- },
- {
-   "Song title": "Slipstream[A]",
-   "Coefficient": 1.089492341,
-   "Std. Error": 0.02818136,
-   "t value": 38.66003403,
-   "Pr(>|t|)": 3.2e-12
- },
- {
-   "Song title": "The Chase[A]",
-   "Coefficient": 0.877576886,
-   "Std. Error": 0.030454524,
-   "t value": 28.81597778,
-   "Pr(>|t|)": 5.9e-11
- },
- {
-   "Song title": "The Chase[A]",
-   "Coefficient": 0.877576886,
-   "Std. Error": 0.030454524,
-   "t value": 28.81597778,
-   "Pr(>|t|)": 5.9e-11
- },
- {
-   "Song title": "VOX RUSH[A]",
-   "Coefficient": 0.967629345,
-   "Std. Error": 0.085929689,
-   "t value": 11.26071045,
-   "Pr(>|t|)": 5.3e-7
- },
- {
-   "Song title": "Xperanza[A]",
-   "Coefficient": 1.001404495,
-   "Std. Error": 0.027333792,
-   "t value": 36.63613494,
-   "Pr(>|t|)": 5.46e-12
- },
- {
-   "Song title": "encounter[A]",
-   "Coefficient": 1.290534125,
-   "Std. Error": 0.037331755,
-   "t value": 34.5693399,
-   "Pr(>|t|)": 9.72e-12
- },
- {
-   "Song title": "シムルグの目醒め[A]",
-   "Coefficient": 1.334235392,
-   "Std. Error": 0.093451784,
-   "t value": 14.2772597,
-   "Pr(>|t|)": 5.61e-8
- },
- {
-   "Song title": "東京神話[A]",
-   "Coefficient": 1.454524085,
-   "Std. Error": 0.059889977,
-   "t value": 24.28660301,
-   "Pr(>|t|)": 3.19e-10
- },
- {
-   "Song title": "神謳 -RESONANCE-[A]",
-   "Coefficient": 1.617480843,
-   "Std. Error": 0.142372249,
-   "t value": 11.36092777,
-   "Pr(>|t|)": 4.88e-7
- },
- {
-   "Song title": "#MAGiCVLGiRL_TRVP_B3VTZ[A]",
-   "Coefficient": 1.003457799,
-   "Std. Error": 0.027683117,
-   "t value": 36.24800607,
-   "Pr(>|t|)": 6.07e-12
- },
- {
-   "Song title": "Amazing Mirage[L]",
-   "Coefficient": 1.184406479,
-   "Std. Error": 0.038098701,
-   "t value": 31.08784381,
-   "Pr(>|t|)": 2.78e-11
- },
- {
-   "Song title": "Apocalypse[A]",
-   "Coefficient": 1.031445542,
-   "Std. Error": 0.025304377,
-   "t value": 40.76154626,
-   "Pr(>|t|)": 1.89e-12
- },
- {
-   "Song title": "Caterpillar[A]",
-   "Coefficient": 0.798146704,
-   "Std. Error": 0.05148673,
-   "t value": 15.5019887,
-   "Pr(>|t|)": 2.55e-8
- },
- {
-   "Song title": "DORNWALD ～Junge～[A]",
-   "Coefficient": 1.459441977,
-   "Std. Error": 0.09953071,
-   "t value": 14.66323283,
-   "Pr(>|t|)": 4.35e-8
- },
- {
-   "Song title": "ECHIDNA[A]",
-   "Coefficient": 0.937849307,
-   "Std. Error": 0.043501875,
-   "t value": 21.55882513,
-   "Pr(>|t|)": 1.03e-9
- },
- {
-   "Song title": "FUZIN RIZIN[A]",
-   "Coefficient": 1.361020958,
-   "Std. Error": 0.06580038,
-   "t value": 20.68408951,
-   "Pr(>|t|)": 1.54e-9
- },
- {
-   "Song title": "Go Ahead!![A]",
-   "Coefficient": 1.123690109,
-   "Std. Error": 0.024955943,
-   "t value": 45.02695513,
-   "Pr(>|t|)": 7.02e-13
- },
- {
-   "Song title": "GuNGNiR[A]",
-   "Coefficient": 1.229204543,
-   "Std. Error": 0.049357795,
-   "t value": 24.90395972,
-   "Pr(>|t|)": 2.49e-10
- },
- {
-   "Song title": "HADES[A]",
-   "Coefficient": 1.150455977,
-   "Std. Error": 0.03529466,
-   "t value": 32.59575196,
-   "Pr(>|t|)": 1.74e-11
- },
- {
-   "Song title": "Mare Nectaris[A]",
-   "Coefficient": 1.199856161,
-   "Std. Error": 0.020648762,
-   "t value": 58.10789776,
-   "Pr(>|t|)": 5.53e-14
- },
- {
-   "Song title": "OTENAMI Hurricane[A]",
-   "Coefficient": 1.217662401,
-   "Std. Error": 0.067934707,
-   "t value": 17.92401049,
-   "Pr(>|t|)": 6.25e-9
- },
- {
-   "Song title": "OTENAMI Hurricane[A]",
-   "Coefficient": 1.217662401,
-   "Std. Error": 0.067934707,
-   "t value": 17.92401049,
-   "Pr(>|t|)": 6.25e-9
- },
- {
-   "Song title": "Quakes[A]",
-   "Coefficient": 1.384635088,
-   "Std. Error": 0.057542903,
-   "t value": 24.06265599,
-   "Pr(>|t|)": 3.5e-10
- },
- {
-   "Song title": "RAIN[A]",
-   "Coefficient": 1.16389582,
-   "Std. Error": 0.030529688,
-   "t value": 38.12340994,
-   "Pr(>|t|)": 3.68e-12
- },
- {
-   "Song title": "Rave Cannon[A]",
-   "Coefficient": 1.104956617,
-   "Std. Error": 0.037426362,
-   "t value": 29.5234842,
-   "Pr(>|t|)": 4.64e-11
- },
- {
-   "Song title": "SAY BAY[A]",
-   "Coefficient": 1.252997321,
-   "Std. Error": 0.041196986,
-   "t value": 30.41478156,
-   "Pr(>|t|)": 3.46e-11
- },
- {
-   "Song title": "Sky High[A]",
-   "Coefficient": 1.397372213,
-   "Std. Error": 0.043442331,
-   "t value": 32.16614249,
-   "Pr(>|t|)": 1.99e-11
- },
- {
-   "Song title": "Snakey Kung-fu[A]",
-   "Coefficient": 1.173013412,
-   "Std. Error": 0.029877111,
-   "t value": 39.26127367,
-   "Pr(>|t|)": 2.75e-12
- },
- {
-   "Song title": "Steel Edge[A]",
-   "Coefficient": 0.884194035,
-   "Std. Error": 0.036571094,
-   "t value": 24.177402,
-   "Pr(>|t|)": 3.34e-10
- },
- {
-   "Song title": "Summerlights(IIDX Edition)[A]",
-   "Coefficient": 1.18096184,
-   "Std. Error": 0.03010657,
-   "t value": 39.22605063,
-   "Pr(>|t|)": 2.77e-12
- },
- {
-   "Song title": "Super Rush[A]",
-   "Coefficient": 1.1553071,
-   "Std. Error": 0.032265848,
-   "t value": 35.80588067,
-   "Pr(>|t|)": 6.86e-12
- },
- {
-   "Song title": "TOGAKUSHI[A]",
-   "Coefficient": 1.121706412,
-   "Std. Error": 0.037619029,
-   "t value": 29.81752669,
-   "Pr(>|t|)": 4.21e-11
- },
- {
-   "Song title": "Venom[A]",
-   "Coefficient": 1.110064579,
-   "Std. Error": 0.014312903,
-   "t value": 77.55691118,
-   "Pr(>|t|)": 3.1e-15
- },
- {
-   "Song title": "〆[A]",
-   "Coefficient": 1.078062591,
-   "Std. Error": 0.033039761,
-   "t value": 32.62924863,
-   "Pr(>|t|)": 1.72e-11
- },
- {
-   "Song title": "イザナミノナゲキ[A]",
-   "Coefficient": 1.511491194,
-   "Std. Error": 0.085582992,
-   "t value": 17.66111659,
-   "Pr(>|t|)": 7.21e-9
- },
- {
-   "Song title": "イザナミノナゲキ[A]",
-   "Coefficient": 1.511491194,
-   "Std. Error": 0.085582992,
-   "t value": 17.66111659,
-   "Pr(>|t|)": 7.21e-9
- },
- {
-   "Song title": "九尾狐夜行[A]",
-   "Coefficient": 1.409409368,
-   "Std. Error": 0.052518664,
-   "t value": 26.83635242,
-   "Pr(>|t|)": 1.19e-10
- },
- {
-   "Song title": "刃図羅[A]",
-   "Coefficient": 1.201522414,
-   "Std. Error": 0.034187917,
-   "t value": 35.14465101,
-   "Pr(>|t|)": 8.25e-12
- },
- {
-   "Song title": "津軽雪[A]",
-   "Coefficient": 1.10540519,
-   "Std. Error": 0.015617411,
-   "t value": 70.78031131,
-   "Pr(>|t|)": 7.73e-15
- },
- {
-   "Song title": "火影[A]",
-   "Coefficient": 1.043352963,
-   "Std. Error": 0.027932885,
-   "t value": 37.35213716,
-   "Pr(>|t|)": 4.51e-12
- },
- {
-   "Song title": "焔極OVERKILL[A]",
-   "Coefficient": 1.14737703,
-   "Std. Error": 0.04461146,
-   "t value": 25.71933356,
-   "Pr(>|t|)": 1.81e-10
- },
- {
-   "Song title": "童話回廊[A]",
-   "Coefficient": 1.414958135,
-   "Std. Error": 0.112329738,
-   "t value": 12.59646959,
-   "Pr(>|t|)": 1.85e-7
- },
- {
-   "Song title": "199024club -Re:BounceKiller-[A]",
-   "Coefficient": 0.995860391,
-   "Std. Error": 0.06319667,
-   "t value": 15.75811485,
+   "Song title": "Catch Our Fire![A]",
+   "Coefficient": 1.102196462,
+   "Std. Error": 0.069916902,
+   "t value": 15.76437794,
    "Pr(>|t|)": 2.17e-8
  },
  {
-   "Song title": "AO-1[A]",
-   "Coefficient": 1.08938479,
-   "Std. Error": 0.041403518,
-   "t value": 26.31140659,
-   "Pr(>|t|)": 1.45e-10
- },
- {
-   "Song title": "Blue Spring Express[A]",
-   "Coefficient": 1.395315199,
-   "Std. Error": 0.039356506,
-   "t value": 35.45322856,
-   "Pr(>|t|)": 7.56e-12
- },
- {
-   "Song title": "CODE:1 [revision1.0.1][A]",
-   "Coefficient": 0.923833316,
-   "Std. Error": 0.058632814,
-   "t value": 15.75625073,
-   "Pr(>|t|)": 2.18e-8
- },
- {
-   "Song title": "DIAMOND CROSSING[A]",
-   "Coefficient": 1.175459797,
-   "Std. Error": 0.038642985,
-   "t value": 30.41845229,
-   "Pr(>|t|)": 3.45e-11
- },
- {
-   "Song title": "Devil's Gear[A]",
-   "Coefficient": 1.554792048,
-   "Std. Error": 0.132261627,
-   "t value": 11.7554281,
-   "Pr(>|t|)": 3.54e-7
- },
- {
-   "Song title": "Dynamite[A]",
-   "Coefficient": 0.900756373,
-   "Std. Error": 0.047796058,
-   "t value": 18.84582961,
-   "Pr(>|t|)": 3.83e-9
- },
- {
-   "Song title": "Godspeed[A]",
-   "Coefficient": 1.170759253,
-   "Std. Error": 0.023804253,
-   "t value": 49.18277572,
-   "Pr(>|t|)": 2.92e-13
- },
- {
-   "Song title": "Grand Chariot[A]",
-   "Coefficient": 1.237664003,
-   "Std. Error": 0.026509779,
-   "t value": 46.68707421,
-   "Pr(>|t|)": 4.9e-13
- },
- {
-   "Song title": "Highcharge Divolt[A]",
-   "Coefficient": 1.114888002,
-   "Std. Error": 0.021097946,
-   "t value": 52.84343813,
-   "Pr(>|t|)": 1.43e-13
- },
- {
-   "Song title": "Konzert V[A]",
-   "Coefficient": 1.374047868,
-   "Std. Error": 0.087637227,
-   "t value": 15.6788149,
-   "Pr(>|t|)": 2.28e-8
- },
- {
-   "Song title": "M4K3 1T B0UNC3[A]",
-   "Coefficient": 1.075099412,
-   "Std. Error": 0.030956538,
-   "t value": 34.72931679,
-   "Pr(>|t|)": 9.28e-12
- },
- {
-   "Song title": "NINJA IS DEAD IIDX ver.[A]",
-   "Coefficient": 0.979840474,
-   "Std. Error": 0.024752046,
-   "t value": 39.58624183,
-   "Pr(>|t|)": 2.53e-12
- },
- {
-   "Song title": "NINJA IS DEAD IIDX ver.[A]",
-   "Coefficient": 0.979840474,
-   "Std. Error": 0.024752046,
-   "t value": 39.58624183,
-   "Pr(>|t|)": 2.53e-12
- },
- {
-   "Song title": "NZM[A]",
-   "Coefficient": 1.292304121,
-   "Std. Error": 0.034652647,
-   "t value": 37.29308564,
-   "Pr(>|t|)": 4.58e-12
- },
- {
-   "Song title": "Nightmare before oversleep[A]",
-   "Coefficient": 1.329866306,
-   "Std. Error": 0.057527635,
-   "t value": 23.1169995,
-   "Pr(>|t|)": 5.19e-10
- },
- {
-   "Song title": "POSSESSION[A]",
-   "Coefficient": 0.725988346,
-   "Std. Error": 0.052123362,
-   "t value": 13.92827172,
-   "Pr(>|t|)": 7.11e-8
- },
- {
-   "Song title": "STARLIGHT DANCEHALL[L]",
-   "Coefficient": 0.895170542,
-   "Std. Error": 0.039838368,
-   "t value": 22.47006039,
-   "Pr(>|t|)": 6.86e-10
- },
- {
-   "Song title": "StrayedCatz[A]",
-   "Coefficient": 1.023243972,
-   "Std. Error": 0.020785985,
-   "t value": 49.2275906,
-   "Pr(>|t|)": 2.89e-13
- },
- {
-   "Song title": "Triple Counter[A]",
-   "Coefficient": 1.229772417,
-   "Std. Error": 0.07786757,
-   "t value": 15.79312694,
-   "Pr(>|t|)": 2.13e-8
- },
- {
-   "Song title": "Welcome[L]",
-   "Coefficient": 1.058329592,
-   "Std. Error": 0.027871505,
-   "t value": 37.97174243,
-   "Pr(>|t|)": 3.83e-12
- },
- {
-   "Song title": "X[A]",
-   "Coefficient": 1.506663264,
-   "Std. Error": 0.078682116,
-   "t value": 19.14873854,
-   "Pr(>|t|)": 3.28e-9
- },
- {
-   "Song title": "refrain[A]",
-   "Coefficient": 1.499087111,
-   "Std. Error": 0.070849113,
-   "t value": 21.15886924,
-   "Pr(>|t|)": 1.24e-9
- },
- {
-   "Song title": "めいさいアイドル☆あいむちゃん♪[A]",
-   "Coefficient": 1.383847681,
-   "Std. Error": 0.028671735,
-   "t value": 48.26522244,
-   "Pr(>|t|)": 3.52e-13
- },
- {
-   "Song title": "灼熱 Pt.2 Long Train Running[A]",
-   "Coefficient": 0.769804956,
-   "Std. Error": 0.029398131,
-   "t value": 26.1855063,
-   "Pr(>|t|)": 1.52e-10
- },
- {
-   "Song title": "真 地獄超特急 -HELL or HELL-[A]",
-   "Coefficient": 0.934750259,
-   "Std. Error": 0.026137045,
-   "t value": 35.76342599,
-   "Pr(>|t|)": 6.94e-12
- },
- {
-   "Song title": "紫陽花 -AZISAI-[A]",
-   "Coefficient": 1.201351563,
-   "Std. Error": 0.043322641,
-   "t value": 27.73034023,
-   "Pr(>|t|)": 8.63e-11
- },
- {
-   "Song title": "駅猫のワルツ[A]",
-   "Coefficient": 1.229076288,
-   "Std. Error": 0.022621852,
-   "t value": 54.3313731,
-   "Pr(>|t|)": 1.08e-13
- },
- {
-   "Song title": "BLUE MIRAGE[A]",
-   "Coefficient": 1.103829737,
-   "Std. Error": 0.027374926,
-   "t value": 40.32265666,
-   "Pr(>|t|)": 2.11e-12
- },
- {
-   "Song title": "Beat Radiance[L]",
-   "Coefficient": 1.131895185,
-   "Std. Error": 0.057392297,
-   "t value": 19.72207486,
-   "Pr(>|t|)": 2.46e-9
- },
- {
-   "Song title": "Broken Sword[A]",
-   "Coefficient": 1.3555693,
-   "Std. Error": 0.069759188,
-   "t value": 19.43212557,
-   "Pr(>|t|)": 2.84e-9
- },
- {
-   "Song title": "Broken Sword[A]",
-   "Coefficient": 1.3555693,
-   "Std. Error": 0.069759188,
-   "t value": 19.43212557,
-   "Pr(>|t|)": 2.84e-9
- },
- {
-   "Song title": "CHRONO DIVER -NORNIR-[L]",
-   "Coefficient": 1.513458135,
-   "Std. Error": 0.124898737,
-   "t value": 12.11748155,
-   "Pr(>|t|)": 2.67e-7
- },
- {
-   "Song title": "CHRONO DIVER -NORNIR-[L]",
-   "Coefficient": 1.513458135,
-   "Std. Error": 0.124898737,
-   "t value": 12.11748155,
-   "Pr(>|t|)": 2.67e-7
- },
- {
-   "Song title": "Chrono Diver -PENDULUMs-[A]",
-   "Coefficient": 1.019101509,
-   "Std. Error": 0.030067792,
-   "t value": 33.89345991,
-   "Pr(>|t|)": 1.18e-11
- },
- {
-   "Song title": "Cosmic Cat[L]",
-   "Coefficient": 1.150832007,
-   "Std. Error": 0.038887624,
-   "t value": 29.59378554,
-   "Pr(>|t|)": 4.53e-11
- },
- {
-   "Song title": "Despair of ELFERIA[A]",
-   "Coefficient": 1.387371058,
-   "Std. Error": 0.081146341,
-   "t value": 17.09714862,
-   "Pr(>|t|)": 9.88e-9
- },
- {
-   "Song title": "EBONY & IVORY[A]",
-   "Coefficient": 1.191566758,
-   "Std. Error": 0.030650534,
-   "t value": 38.87588956,
-   "Pr(>|t|)": 3.03e-12
- },
- {
-   "Song title": "EBONY & IVORY[L]",
-   "Coefficient": 1.490774082,
-   "Std. Error": 0.04460172,
-   "t value": 33.42413863,
-   "Pr(>|t|)": 1.36e-11
- },
- {
-   "Song title": "FANTASTIC THREE[A]",
-   "Coefficient": 1.229000818,
-   "Std. Error": 0.061674485,
-   "t value": 19.92721667,
-   "Pr(>|t|)": 2.22e-9
- },
- {
-   "Song title": "Flashes[A]",
-   "Coefficient": 1.385327167,
-   "Std. Error": 0.035664969,
-   "t value": 38.84279716,
-   "Pr(>|t|)": 3.05e-12
- },
- {
-   "Song title": "Gravigazer[A]",
-   "Coefficient": 1.006998013,
-   "Std. Error": 0.031841176,
-   "t value": 31.62565438,
-   "Pr(>|t|)": 2.35e-11
- },
- {
-   "Song title": "IMPLANTATION[A]",
-   "Coefficient": 1.003344149,
-   "Std. Error": 0.020999306,
-   "t value": 47.77987155,
-   "Pr(>|t|)": 3.89e-13
- },
- {
-   "Song title": "Invitation from Mr.C[A]",
-   "Coefficient": 1.005616449,
-   "Std. Error": 0.022241738,
-   "t value": 45.21303269,
-   "Pr(>|t|)": 6.74e-13
- },
- {
-   "Song title": "Monopole.[A]",
-   "Coefficient": 1.289527496,
-   "Std. Error": 0.08010944,
-   "t value": 16.09707282,
-   "Pr(>|t|)": 1.77e-8
- },
- {
-   "Song title": "NEO GENERATOR SEVEN[A]",
-   "Coefficient": 1.354236891,
-   "Std. Error": 0.037261172,
-   "t value": 36.34445233,
-   "Pr(>|t|)": 5.91e-12
- },
- {
-   "Song title": "Rave*it!! Rave*it!! [A]",
-   "Coefficient": 1.047855566,
-   "Std. Error": 0.022950188,
-   "t value": 45.65781963,
-   "Pr(>|t|)": 6.12e-13
- },
- {
-   "Song title": "Reflux[A]",
-   "Coefficient": 1.031033589,
-   "Std. Error": 0.039281507,
-   "t value": 26.24730209,
-   "Pr(>|t|)": 1.48e-10
- },
- {
-   "Song title": "Say YEEEAHH[A]",
-   "Coefficient": 1.285457046,
-   "Std. Error": 0.059221807,
-   "t value": 21.70580579,
-   "Pr(>|t|)": 9.63e-10
- },
- {
-   "Song title": "Shooting Fireball[A]",
-   "Coefficient": 1.148955846,
-   "Std. Error": 0.029239836,
-   "t value": 39.29419658,
-   "Pr(>|t|)": 2.72e-12
- },
- {
-   "Song title": "SpaceLand☆TOYBOX[A]",
-   "Coefficient": 1.095149735,
-   "Std. Error": 0.01729592,
-   "t value": 63.31838412,
-   "Pr(>|t|)": 2.35e-14
- },
- {
-   "Song title": "Symmetry[A]",
-   "Coefficient": 1.101989724,
-   "Std. Error": 0.02748036,
-   "t value": 40.10099342,
-   "Pr(>|t|)": 2.22e-12
- },
- {
-   "Song title": "TIEFSEE[A]",
-   "Coefficient": 1.106364031,
-   "Std. Error": 0.018088075,
-   "t value": 61.16538367,
-   "Pr(>|t|)": 3.32e-14
- },
- {
-   "Song title": "TOXIC VIBRATION[A]",
-   "Coefficient": 1.351054896,
-   "Std. Error": 0.068142402,
-   "t value": 19.82693375,
-   "Pr(>|t|)": 2.34e-9
- },
- {
-   "Song title": "The Least 100sec[A]",
-   "Coefficient": 1.39099457,
-   "Std. Error": 0.10867508,
-   "t value": 12.79957254,
-   "Pr(>|t|)": 1.59e-7
- },
- {
-   "Song title": "We're so Happy (P*Light Remix) IIDX ver.[A]",
-   "Coefficient": 1.231925803,
-   "Std. Error": 0.046677525,
-   "t value": 26.39226941,
-   "Pr(>|t|)": 1.41e-10
- },
- {
-   "Song title": "ZZ[A]",
-   "Coefficient": 1.164700578,
-   "Std. Error": 0.033400577,
-   "t value": 34.87067262,
-   "Pr(>|t|)": 8.92e-12
- },
- {
-   "Song title": "cinder[A]",
-   "Coefficient": 1.316286686,
-   "Std. Error": 0.044462974,
-   "t value": 29.60410826,
-   "Pr(>|t|)": 4.52e-11
- },
- {
-   "Song title": "entelecheia[A]",
-   "Coefficient": 1.625022118,
-   "Std. Error": 0.163660256,
-   "t value": 9.929240942,
-   "Pr(>|t|)": 0.0000017
- },
- {
-   "Song title": "fallen leaves -IIDX edition-[A]",
-   "Coefficient": 1.328669691,
-   "Std. Error": 0.04551104,
-   "t value": 29.19444815,
-   "Pr(>|t|)": 5.19e-11
- },
- {
-   "Song title": "それは花火のような恋[A]",
-   "Coefficient": 1.249452127,
-   "Std. Error": 0.032906937,
-   "t value": 37.96926284,
-   "Pr(>|t|)": 3.83e-12
- },
- {
-   "Song title": "リリーゼと炎龍レーヴァテイン[A]",
-   "Coefficient": 1.150526108,
-   "Std. Error": 0.049092576,
-   "t value": 23.43584709,
-   "Pr(>|t|)": 4.53e-10
- },
- {
-   "Song title": "共鳴遊戯の華[A]",
-   "Coefficient": 1.289513652,
-   "Std. Error": 0.043759492,
-   "t value": 29.46820401,
-   "Pr(>|t|)": 4.73e-11
- },
- {
-   "Song title": "千年ノ理[A]",
-   "Coefficient": 1.042692488,
-   "Std. Error": 0.019958651,
-   "t value": 52.2426337,
-   "Pr(>|t|)": 1.6e-13
- },
- {
-   "Song title": "千年ノ理[L]",
-   "Coefficient": 1.189491272,
-   "Std. Error": 0.036774751,
-   "t value": 32.34532477,
-   "Pr(>|t|)": 1.88e-11
- },
- {
-   "Song title": "夏色DIARY - L.E.D.-G STYLE MIX -[A]",
-   "Coefficient": 1.219022711,
-   "Std. Error": 0.099384931,
-   "t value": 12.26566944,
-   "Pr(>|t|)": 2.38e-7
- },
- {
-   "Song title": "少年は空を辿る[A]",
-   "Coefficient": 1.17935573,
-   "Std. Error": 0.033491168,
-   "t value": 35.21393291,
-   "Pr(>|t|)": 8.09e-12
- },
- {
-   "Song title": "紅牡丹[A]",
-   "Coefficient": 1.124178475,
-   "Std. Error": 0.025226408,
-   "t value": 44.5635577,
-   "Pr(>|t|)": 7.79e-13
- },
- {
-   "Song title": "表裏一体！？怪盗いいんちょの悩み[A]",
-   "Coefficient": 1.060403363,
-   "Std. Error": 0.046658513,
-   "t value": 22.72690015,
-   "Pr(>|t|)": 6.13e-10
- },
- {
-   "Song title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲[L]",
-   "Coefficient": 1.534938647,
-   "Std. Error": 0.043427089,
-   "t value": 35.34518833,
-   "Pr(>|t|)": 7.8e-12
- },
- {
-   "Song title": "Adularia[A]",
-   "Coefficient": 1.519449207,
-   "Std. Error": 0.108370601,
-   "t value": 14.02086166,
-   "Pr(>|t|)": 6.68e-8
- },
- {
-   "Song title": "Ancient Scapes[A]",
-   "Coefficient": 1.234116241,
-   "Std. Error": 0.038085717,
-   "t value": 32.40364968,
-   "Pr(>|t|)": 1.85e-11
- },
- {
-   "Song title": "Ancient Scapes[L]",
-   "Coefficient": 1.853895275,
-   "Std. Error": 0.19624214,
-   "t value": 9.446978497,
-   "Pr(>|t|)": 0.00000267
- },
- {
-   "Song title": "BLUE DRAGON(雷龍RemixIIDX)[A]",
-   "Coefficient": 0.990813921,
-   "Std. Error": 0.02179332,
-   "t value": 45.46411167,
-   "Pr(>|t|)": 6.38e-13
- },
- {
-   "Song title": "Close the World feat.a☆ru[A]",
-   "Coefficient": 1.279372152,
-   "Std. Error": 0.076321105,
-   "t value": 16.76301921,
-   "Pr(>|t|)": 1.2e-8
- },
- {
-   "Song title": "Close the World feat.a☆ru[L]",
-   "Coefficient": 1.317641658,
-   "Std. Error": 0.080049391,
-   "t value": 16.46035834,
-   "Pr(>|t|)": 1.43e-8
- },
- {
-   "Song title": "DARK LEGACY[A]",
-   "Coefficient": 1.266637462,
-   "Std. Error": 0.03138728,
-   "t value": 40.35512071,
-   "Pr(>|t|)": 2.09e-12
- },
- {
-   "Song title": "Feel The Beat[A]",
-   "Coefficient": 1.203214787,
-   "Std. Error": 0.027550966,
-   "t value": 43.6723264,
-   "Pr(>|t|)": 9.52e-13
- },
- {
-   "Song title": "Feel The Beat[L]",
-   "Coefficient": 1.19198555,
-   "Std. Error": 0.031865152,
-   "t value": 37.40718273,
-   "Pr(>|t|)": 4.44e-12
- },
- {
-   "Song title": "INSOMNIA[A]",
-   "Coefficient": 0.99312679,
-   "Std. Error": 0.048817525,
-   "t value": 20.343653,
-   "Pr(>|t|)": 1.82e-9
- },
- {
-   "Song title": "IX[A]",
-   "Coefficient": 1.565537769,
-   "Std. Error": 0.113894852,
-   "t value": 13.74546565,
-   "Pr(>|t|)": 8.07e-8
- },
- {
-   "Song title": "KAISER PHOENIX[A]",
-   "Coefficient": 1.21376638,
-   "Std. Error": 0.018307779,
-   "t value": 66.29784961,
-   "Pr(>|t|)": 1.48e-14
- },
- {
-   "Song title": "KAISER PHOENIX[L]",
-   "Coefficient": 1.290729812,
-   "Std. Error": 0.087644597,
-   "t value": 14.72686114,
-   "Pr(>|t|)": 4.17e-8
- },
- {
-   "Song title": "Last Dance[A]",
-   "Coefficient": 1.337561641,
-   "Std. Error": 0.037829714,
-   "t value": 35.35743453,
-   "Pr(>|t|)": 7.77e-12
- },
- {
-   "Song title": "PUNISHER[A]",
-   "Coefficient": 1.354497278,
-   "Std. Error": 0.050273835,
-   "t value": 26.94239019,
-   "Pr(>|t|)": 1.15e-10
- },
- {
-   "Song title": "Sigmund[A]",
-   "Coefficient": 0.863070671,
-   "Std. Error": 0.057300087,
-   "t value": 15.06229254,
-   "Pr(>|t|)": 3.36e-8
- },
- {
-   "Song title": "Sigmund[L]",
-   "Coefficient": 1.447056727,
-   "Std. Error": 0.049363963,
-   "t value": 29.31403071,
-   "Pr(>|t|)": 4.98e-11
- },
- {
-   "Song title": "VOX UP[A]",
-   "Coefficient": 1.021402111,
-   "Std. Error": 0.061606454,
-   "t value": 16.57946602,
-   "Pr(>|t|)": 1.33e-8
- },
- {
-   "Song title": "Verflucht[A]",
-   "Coefficient": 1.518482716,
-   "Std. Error": 0.112626197,
-   "t value": 13.48250018,
-   "Pr(>|t|)": 9.7e-8
- },
- {
-   "Song title": "Verflucht[L]",
-   "Coefficient": 1.43777775,
-   "Std. Error": 0.079166598,
-   "t value": 18.16141897,
-   "Pr(>|t|)": 5.5e-9
- },
- {
-   "Song title": "invoker[A]",
-   "Coefficient": 1.06276137,
-   "Std. Error": 0.025598575,
-   "t value": 41.51642654,
-   "Pr(>|t|)": 1.58e-12
- },
- {
-   "Song title": "invoker[L]",
-   "Coefficient": 1.215616999,
-   "Std. Error": 0.03188753,
-   "t value": 38.12201805,
-   "Pr(>|t|)": 3.68e-12
- },
- {
-   "Song title": "ra'am[A]",
-   "Coefficient": 0.885916952,
-   "Std. Error": 0.050069109,
-   "t value": 17.69388295,
-   "Pr(>|t|)": 7.08e-9
- },
- {
-   "Song title": "廿[L]",
-   "Coefficient": 1.138210637,
-   "Std. Error": 0.039987835,
-   "t value": 28.46392277,
-   "Pr(>|t|)": 6.66e-11
- },
- {
-   "Song title": "旋律のドグマ～Miserables～[A]",
-   "Coefficient": 1.525003793,
-   "Std. Error": 0.153473196,
-   "t value": 9.936613264,
-   "Pr(>|t|)": 0.00000168
- },
- {
-   "Song title": "海神[A]",
-   "Coefficient": 1.046022046,
-   "Std. Error": 0.0298005,
-   "t value": 35.10082194,
-   "Pr(>|t|)": 8.35e-12
- },
- {
-   "Song title": "煉獄のエルフェリア[A]",
-   "Coefficient": 1.234753838,
-   "Std. Error": 0.040368889,
-   "t value": 30.58676763,
-   "Pr(>|t|)": 3.27e-11
- },
- {
-   "Song title": "疾風迅雷[A]",
-   "Coefficient": 1.142575783,
-   "Std. Error": 0.023521658,
-   "t value": 48.57547849,
-   "Pr(>|t|)": 3.3e-13
- },
- {
-   "Song title": "疾風迅雷[L]",
-   "Coefficient": 1.529172136,
-   "Std. Error": 0.067329257,
-   "t value": 22.7118521,
-   "Pr(>|t|)": 6.17e-10
- },
- {
-   "Song title": "轟け！恋のビーンボール！！[A]",
-   "Coefficient": 1.340692718,
-   "Std. Error": 0.048791608,
-   "t value": 27.47793687,
-   "Pr(>|t|)": 9.44e-11
- },
- {
-   "Song title": "Confiserie[A]",
-   "Coefficient": 1.450030124,
-   "Std. Error": 0.06216052,
-   "t value": 23.32718785,
-   "Pr(>|t|)": 4.74e-10
- },
- {
-   "Song title": "DAY DREAM[A]",
-   "Coefficient": 1.743327032,
-   "Std. Error": 0.076310107,
-   "t value": 22.84529651,
-   "Pr(>|t|)": 5.83e-10
- },
- {
-   "Song title": "Devilz Staircase[A]",
-   "Coefficient": 1.193601145,
-   "Std. Error": 0.049000487,
-   "t value": 24.3589649,
-   "Pr(>|t|)": 3.1e-10
- },
- {
-   "Song title": "Elemental Creation[A]",
-   "Coefficient": 1.297847595,
-   "Std. Error": 0.068920568,
-   "t value": 18.83106352,
-   "Pr(>|t|)": 3.86e-9
- },
- {
-   "Song title": "GAIA[A]",
-   "Coefficient": 1.504373185,
-   "Std. Error": 0.068710113,
-   "t value": 21.89449456,
-   "Pr(>|t|)": 8.84e-10
- },
- {
-   "Song title": "Hollywood Galaxy[A]",
-   "Coefficient": 1.519361248,
-   "Std. Error": 0.125528585,
-   "t value": 12.10370733,
-   "Pr(>|t|)": 2.69e-7
- },
- {
-   "Song title": "Hollywood Galaxy[A]",
-   "Coefficient": 1.519361248,
-   "Std. Error": 0.125528585,
-   "t value": 12.10370733,
-   "Pr(>|t|)": 2.69e-7
- },
- {
-   "Song title": "JOMANDA[A]",
-   "Coefficient": 1.017141089,
-   "Std. Error": 0.049465633,
-   "t value": 20.56258093,
-   "Pr(>|t|)": 1.64e-9
- },
- {
-   "Song title": "Liberation[A]",
-   "Coefficient": 1.747855128,
-   "Std. Error": 0.070836979,
-   "t value": 24.67433199,
-   "Pr(>|t|)": 2.73e-10
- },
- {
-   "Song title": "Little Star[A]",
-   "Coefficient": 1.265524244,
-   "Std. Error": 0.069496618,
-   "t value": 18.20986813,
-   "Pr(>|t|)": 5.36e-9
- },
- {
-   "Song title": "Plan 8[A]",
-   "Coefficient": 0.935045696,
-   "Std. Error": 0.032132126,
-   "t value": 29.10002565,
-   "Pr(>|t|)": 5.36e-11
- },
- {
-   "Song title": "Proof of the existence[A]",
-   "Coefficient": 1.404457427,
-   "Std. Error": 0.039317057,
-   "t value": 35.7213267,
-   "Pr(>|t|)": 7.02e-12
- },
- {
-   "Song title": "STULTI[A]",
-   "Coefficient": 1.074607563,
-   "Std. Error": 0.033567598,
-   "t value": 32.01323931,
-   "Pr(>|t|)": 2.08e-11
- },
- {
-   "Song title": "SYNC-ANTHEM[A]",
-   "Coefficient": 1.296758762,
-   "Std. Error": 0.046295543,
-   "t value": 28.01044487,
-   "Pr(>|t|)": 7.81e-11
- },
- {
-   "Song title": "Sol Cosine Job 2[A]",
-   "Coefficient": 1.502136994,
-   "Std. Error": 0.136185575,
-   "t value": 11.03007419,
-   "Pr(>|t|)": 6.43e-7
- },
- {
-   "Song title": "Thor's Hammer[A]",
-   "Coefficient": 1.377752321,
-   "Std. Error": 0.056581593,
-   "t value": 24.34983286,
-   "Pr(>|t|)": 3.11e-10
- },
- {
-   "Song title": "Timepiece phase II[A]",
-   "Coefficient": 1.060262318,
-   "Std. Error": 0.031488045,
-   "t value": 33.6719009,
-   "Pr(>|t|)": 1.26e-11
- },
- {
-   "Song title": "Timepiece phase II[A]",
-   "Coefficient": 1.060262318,
-   "Std. Error": 0.031488045,
-   "t value": 33.6719009,
-   "Pr(>|t|)": 1.26e-11
- },
- {
-   "Song title": "Timepiece phase II (CN Ver.)[A]",
-   "Coefficient": 0.936506853,
-   "Std. Error": 0.039689194,
-   "t value": 23.5960161,
-   "Pr(>|t|)": 4.24e-10
- },
- {
-   "Song title": "True Blue[A]",
-   "Coefficient": 1.052162822,
-   "Std. Error": 0.024145193,
-   "t value": 43.57649312,
-   "Pr(>|t|)": 9.73e-13
- },
- {
-   "Song title": "Valanga[A]",
-   "Coefficient": 1.122679785,
-   "Std. Error": 0.014049043,
-   "t value": 79.91147513,
-   "Pr(>|t|)": 2.3e-15
- },
- {
-   "Song title": "Zirkfied[A]",
-   "Coefficient": 1.191268032,
-   "Std. Error": 0.043190454,
-   "t value": 27.5817434,
-   "Pr(>|t|)": 9.1e-11
- },
- {
-   "Song title": "neu[A]",
-   "Coefficient": 1.481961457,
-   "Std. Error": 0.081272981,
-   "t value": 18.23436805,
-   "Pr(>|t|)": 5.29e-9
- },
- {
-   "Song title": "ΕΛΠΙΣ[A]",
-   "Coefficient": 1.509775157,
-   "Std. Error": 0.105276622,
-   "t value": 14.34102971,
-   "Pr(>|t|)": 5.38e-8
- },
- {
-   "Song title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)[A]",
-   "Coefficient": 1.448355183,
-   "Std. Error": 0.094584064,
-   "t value": 15.312888,
-   "Pr(>|t|)": 2.87e-8
- },
- {
-   "Song title": "たまゆら[A]",
-   "Coefficient": 1.406333173,
-   "Std. Error": 0.060485537,
-   "t value": 23.2507345,
-   "Pr(>|t|)": 4.9e-10
- },
- {
-   "Song title": "アストライアの双皿[A]",
-   "Coefficient": 1.141022005,
-   "Std. Error": 0.033696961,
-   "t value": 33.8612732,
-   "Pr(>|t|)": 1.19e-11
- },
- {
-   "Song title": "キャトられ恋はモ～モク[A]",
-   "Coefficient": 1.398198383,
-   "Std. Error": 0.095025435,
-   "t value": 14.71393821,
-   "Pr(>|t|)": 4.21e-8
- },
- {
-   "Song title": "シュレーディンガーの猫[A]",
-   "Coefficient": 1.205297321,
-   "Std. Error": 0.035233809,
-   "t value": 34.20854459,
-   "Pr(>|t|)": 1.08e-11
- },
- {
-   "Song title": "トリカゴノ鳳凰[A]",
-   "Coefficient": 1.083088606,
-   "Std. Error": 0.038678341,
-   "t value": 28.00245748,
-   "Pr(>|t|)": 7.83e-11
- },
- {
-   "Song title": "仮想空間の旅人たち[L]",
-   "Coefficient": 1.265414377,
-   "Std. Error": 0.030637818,
-   "t value": 41.30236581,
-   "Pr(>|t|)": 1.66e-12
- },
- {
-   "Song title": "即席！脳直★ミュージックシステム[A]",
-   "Coefficient": 1.08729676,
-   "Std. Error": 0.015984672,
-   "t value": 68.02121172,
-   "Pr(>|t|)": 1.15e-14
- },
- {
-   "Song title": "狂イ咲ケ焔ノ華[A]",
-   "Coefficient": 1.153885881,
-   "Std. Error": 0.041699878,
-   "t value": 27.67120486,
-   "Pr(>|t|)": 8.81e-11
- },
- {
-   "Song title": "音楽[A]",
-   "Coefficient": 1.648003522,
-   "Std. Error": 0.104985254,
-   "t value": 15.69747619,
-   "Pr(>|t|)": 2.26e-8
- },
- {
-   "Song title": "龍と少女とデコヒーレンス[L]",
-   "Coefficient": 1.168926375,
-   "Std. Error": 0.020369151,
-   "t value": 57.38709291,
-   "Pr(>|t|)": 6.27e-14
- },
- {
-   "Song title": "BLACK.by X-Cross Fade[A]",
-   "Coefficient": 1.030091355,
-   "Std. Error": 0.029989952,
-   "t value": 34.34788315,
-   "Pr(>|t|)": 1.04e-11
- },
- {
-   "Song title": "DIAVOLO[A]",
-   "Coefficient": 1.332406449,
-   "Std. Error": 0.055711242,
-   "t value": 23.9162941,
-   "Pr(>|t|)": 3.71e-10
- },
- {
-   "Song title": "F[A]",
-   "Coefficient": 1.059174132,
-   "Std. Error": 0.024856983,
-   "t value": 42.61072774,
-   "Pr(>|t|)": 1.22e-12
- },
- {
-   "Song title": "HAERETICUS[A]",
-   "Coefficient": 1.322761527,
-   "Std. Error": 0.042730909,
-   "t value": 30.95561396,
-   "Pr(>|t|)": 2.9e-11
- },
- {
-   "Song title": "NNRT[A]",
-   "Coefficient": 1.344581203,
-   "Std. Error": 0.039172913,
-   "t value": 34.32425835,
-   "Pr(>|t|)": 1.04e-11
- },
- {
-   "Song title": "QUANTUM TELEPORTATION[L]",
-   "Coefficient": 1.323371419,
-   "Std. Error": 0.067035242,
-   "t value": 19.74142835,
-   "Pr(>|t|)": 2.44e-9
- },
- {
-   "Song title": "Snake Stick[A]",
-   "Coefficient": 0.913646265,
-   "Std. Error": 0.031440602,
-   "t value": 29.05943909,
-   "Pr(>|t|)": 5.43e-11
- },
- {
-   "Song title": "The Limbo[A]",
-   "Coefficient": 1.249022018,
-   "Std. Error": 0.045845587,
-   "t value": 27.24410593,
-   "Pr(>|t|)": 1.03e-10
- },
- {
-   "Song title": "The Sampling Paradise[A]",
-   "Coefficient": 1.23725952,
-   "Std. Error": 0.051104573,
-   "t value": 24.21034861,
-   "Pr(>|t|)": 3.29e-10
- },
- {
-   "Song title": "Thunderbolt[A]",
-   "Coefficient": 0.925777963,
-   "Std. Error": 0.044611282,
-   "t value": 20.75210408,
-   "Pr(>|t|)": 1.5e-9
- },
- {
-   "Song title": "Todestrieb[A]",
-   "Coefficient": 1.214206116,
-   "Std. Error": 0.028681151,
-   "t value": 42.33463671,
-   "Pr(>|t|)": 1.3e-12
- },
- {
-   "Song title": "WONDER WALKER[A]",
-   "Coefficient": 1.130414056,
-   "Std. Error": 0.013771483,
-   "t value": 82.08368088,
-   "Pr(>|t|)": 1.76e-15
- },
- {
-   "Song title": "YAKSHA[A]",
-   "Coefficient": 1.339457457,
-   "Std. Error": 0.045400067,
-   "t value": 29.50342497,
-   "Pr(>|t|)": 4.67e-11
- },
- {
-   "Song title": "fffff[A]",
-   "Coefficient": 1.142753513,
-   "Std. Error": 0.028925546,
-   "t value": 39.5067221,
-   "Pr(>|t|)": 2.58e-12
- },
- {
-   "Song title": "quaver♪[A]",
-   "Coefficient": 1.40588829,
-   "Std. Error": 0.055860148,
-   "t value": 25.16800153,
-   "Pr(>|t|)": 2.25e-10
- },
- {
-   "Song title": "天空の夜明け[A]",
-   "Coefficient": 1.188777347,
-   "Std. Error": 0.025589543,
-   "t value": 46.45559173,
-   "Pr(>|t|)": 5.15e-13
- },
- {
-   "Song title": "子供の落書き帳[A]",
-   "Coefficient": 1.124931089,
-   "Std. Error": 0.043476345,
-   "t value": 25.87455544,
-   "Pr(>|t|)": 1.71e-10
- },
- {
-   "Song title": "恋する☆宇宙戦争っ！！[A]",
-   "Coefficient": 1.135431204,
-   "Std. Error": 0.032346682,
-   "t value": 35.10193752,
-   "Pr(>|t|)": 8.35e-12
- },
- {
-   "Song title": "聖人の塔[A]",
-   "Coefficient": 1.333133413,
-   "Std. Error": 0.030204693,
-   "t value": 44.13663159,
-   "Pr(>|t|)": 8.57e-13
- },
- {
-   "Song title": "ALBIDA[A]",
-   "Coefficient": 1.21678373,
-   "Std. Error": 0.051843346,
-   "t value": 23.47039353,
-   "Pr(>|t|)": 4.47e-10
- },
- {
-   "Song title": "Broken[A]",
-   "Coefficient": 1.051482153,
-   "Std. Error": 0.012897853,
-   "t value": 81.52381024,
-   "Pr(>|t|)": 1.88e-15
- },
- {
-   "Song title": "Dances with Snow Fairies[A]",
-   "Coefficient": 1.172849653,
-   "Std. Error": 0.041913181,
-   "t value": 27.98283575,
-   "Pr(>|t|)": 7.89e-11
- },
- {
-   "Song title": "ELECTRIC MASSIVE DIVER[A]",
-   "Coefficient": 0.949630476,
-   "Std. Error": 0.040858273,
-   "t value": 23.24206095,
-   "Pr(>|t|)": 4.92e-10
- },
- {
-   "Song title": "New Castle Legions[A]",
-   "Coefficient": 1.13544252,
-   "Std. Error": 0.034485833,
-   "t value": 32.92489735,
-   "Pr(>|t|)": 1.58e-11
- },
- {
-   "Song title": "PARADISE LOST[A]",
-   "Coefficient": 1.138707713,
-   "Std. Error": 0.030051636,
-   "t value": 37.89170442,
-   "Pr(>|t|)": 3.91e-12
- },
- {
-   "Song title": "SPECIAL SUMMER CAMPAIGN![A]",
-   "Coefficient": 1.093525314,
-   "Std. Error": 0.042876152,
-   "t value": 25.50427848,
-   "Pr(>|t|)": 1.97e-10
- },
- {
-   "Song title": "Session 9 -Chronicles-[A]",
-   "Coefficient": 1.374693789,
-   "Std. Error": 0.076512944,
-   "t value": 17.96681331,
-   "Pr(>|t|)": 6.1e-9
- },
- {
-   "Song title": "Watch Out Pt.2[A]",
-   "Coefficient": 0.961196365,
-   "Std. Error": 0.025571466,
-   "t value": 37.5886293,
-   "Pr(>|t|)": 4.23e-12
- },
- {
-   "Song title": "perditus†paradisus[A]",
-   "Coefficient": 1.189593342,
-   "Std. Error": 0.02929861,
-   "t value": 40.60238123,
-   "Pr(>|t|)": 1.97e-12
- },
- {
-   "Song title": "reunion[A]",
-   "Coefficient": 1.150688393,
-   "Std. Error": 0.020709562,
-   "t value": 55.56314438,
-   "Pr(>|t|)": 8.65e-14
- },
- {
-   "Song title": "sakura storm[A]",
-   "Coefficient": 1.066781976,
-   "Std. Error": 0.02255237,
-   "t value": 47.30243261,
-   "Pr(>|t|)": 4.3e-13
- },
- {
-   "Song title": "sakura storm[A]",
-   "Coefficient": 1.066781976,
-   "Std. Error": 0.02255237,
-   "t value": 47.30243261,
-   "Pr(>|t|)": 4.3e-13
- },
- {
-   "Song title": "灼熱Beach Side Bunny[A]",
-   "Coefficient": 0.822273503,
-   "Std. Error": 0.03931182,
-   "t value": 20.91669915,
-   "Pr(>|t|)": 1.38e-9
- },
- {
-   "Song title": "灼熱Beach Side Bunny[A]",
-   "Coefficient": 0.822273503,
-   "Std. Error": 0.03931182,
-   "t value": 20.91669915,
-   "Pr(>|t|)": 1.38e-9
- },
- {
-   "Song title": "黒髪乱れし修羅となりて[A]",
-   "Coefficient": 0.799415505,
-   "Std. Error": 0.067187796,
-   "t value": 11.89822487,
-   "Pr(>|t|)": 3.16e-7
- },
- {
-   "Song title": "AIR RAID FROM THA UNDAGROUND[L]",
-   "Coefficient": 1.360842928,
-   "Std. Error": 0.092820374,
-   "t value": 14.66103692,
-   "Pr(>|t|)": 4.35e-8
- },
- {
-   "Song title": "Almagest[A]",
-   "Coefficient": 1.375013591,
-   "Std. Error": 0.034584356,
-   "t value": 39.75825366,
-   "Pr(>|t|)": 2.42e-12
- },
- {
-   "Song title": "Bad Maniacs[A]",
-   "Coefficient": 1.300486484,
-   "Std. Error": 0.068903163,
-   "t value": 18.87411873,
-   "Pr(>|t|)": 3.78e-9
- },
- {
-   "Song title": "DOMINION[A]",
-   "Coefficient": 1.384617641,
-   "Std. Error": 0.092043935,
-   "t value": 15.04300783,
-   "Pr(>|t|)": 3.4e-8
- },
- {
-   "Song title": "EXUSIA[A]",
-   "Coefficient": 1.650957177,
-   "Std. Error": 0.172994091,
-   "t value": 9.543431059,
-   "Pr(>|t|)": 0.00000244
- },
- {
-   "Song title": "Evans[A]",
-   "Coefficient": 1.0277202,
-   "Std. Error": 0.028756963,
-   "t value": 35.73813467,
-   "Pr(>|t|)": 6.99e-12
- },
- {
-   "Song title": "G59[A]",
-   "Coefficient": 1.38627754,
-   "Std. Error": 0.059500455,
-   "t value": 23.29860396,
-   "Pr(>|t|)": 4.8e-10
- },
- {
-   "Song title": "GOLDEN CROSS[A]",
-   "Coefficient": 1.058728467,
-   "Std. Error": 0.022196304,
-   "t value": 47.69841164,
-   "Pr(>|t|)": 3.96e-13
- },
- {
-   "Song title": "Red. by Full Metal Jacket[A]",
-   "Coefficient": 0.972499471,
-   "Std. Error": 0.031903519,
-   "t value": 30.48251454,
-   "Pr(>|t|)": 3.38e-11
- },
- {
-   "Song title": "SOLID STATE SQUAD[A]",
-   "Coefficient": 1.285193382,
-   "Std. Error": 0.038652034,
-   "t value": 33.25034269,
-   "Pr(>|t|)": 1.43e-11
- },
- {
-   "Song title": "SOLID STATE SQUAD[L]",
-   "Coefficient": 1.073222954,
-   "Std. Error": 0.030425346,
-   "t value": 35.27397712,
-   "Pr(>|t|)": 7.95e-12
- },
- {
-   "Song title": "eRAseRmOToRpHAntOM[A]",
-   "Coefficient": 1.299086704,
-   "Std. Error": 0.085455624,
-   "t value": 15.20188664,
-   "Pr(>|t|)": 3.07e-8
- },
- {
-   "Song title": "eRAseRmOToRpHAntOM[A]",
-   "Coefficient": 1.299086704,
-   "Std. Error": 0.085455624,
-   "t value": 15.20188664,
-   "Pr(>|t|)": 3.07e-8
- },
- {
-   "Song title": "mosaic[A]",
-   "Coefficient": 0.788257746,
-   "Std. Error": 0.038343289,
-   "t value": 20.55790662,
-   "Pr(>|t|)": 1.64e-9
- },
- {
-   "Song title": "mosaic[A]",
-   "Coefficient": 0.788257746,
-   "Std. Error": 0.038343289,
-   "t value": 20.55790662,
-   "Pr(>|t|)": 1.64e-9
- },
- {
-   "Song title": "quell～the seventh slave～[A]",
-   "Coefficient": 1.522954438,
-   "Std. Error": 0.062490578,
-   "t value": 24.37094502,
-   "Pr(>|t|)": 3.08e-10
- },
- {
-   "Song title": "ワルツ第17番 ト短調”大犬のワルツ”[A]",
-   "Coefficient": 1.276832797,
-   "Std. Error": 0.052415344,
-   "t value": 24.35990506,
-   "Pr(>|t|)": 3.1e-10
- },
- {
-   "Song title": "3y3s[A]",
-   "Coefficient": 1.296267018,
-   "Std. Error": 0.060776139,
-   "t value": 21.32855156,
-   "Pr(>|t|)": 1.14e-9
- },
- {
-   "Song title": "B4U(BEMANI FOR YOU MIX)[L]",
-   "Coefficient": 1.38359886,
-   "Std. Error": 0.076935139,
-   "t value": 17.9839651,
-   "Pr(>|t|)": 6.05e-9
- },
- {
-   "Song title": "BITTER CHOCOLATE STRIKER[A]",
-   "Coefficient": 1.160689963,
-   "Std. Error": 0.030739263,
-   "t value": 37.75919925,
-   "Pr(>|t|)": 4.05e-12
- },
- {
-   "Song title": "Colorful Cookie[A]",
-   "Coefficient": 1.252189205,
-   "Std. Error": 0.039842849,
-   "t value": 31.42820484,
-   "Pr(>|t|)": 2.5e-11
- },
- {
-   "Song title": "Go Beyond!![A]",
-   "Coefficient": 1.041548945,
-   "Std. Error": 0.043780761,
-   "t value": 23.7901061,
-   "Pr(>|t|)": 3.91e-10
- },
- {
-   "Song title": "Kung-fu Empire[L]",
-   "Coefficient": 1.000702998,
-   "Std. Error": 0.046182375,
-   "t value": 21.66850463,
-   "Pr(>|t|)": 9.79e-10
- },
- {
-   "Song title": "THANK YOU FOR PLAYING[L]",
-   "Coefficient": 1.161651029,
-   "Std. Error": 0.034947017,
-   "t value": 33.2403484,
-   "Pr(>|t|)": 1.43e-11
- },
- {
-   "Song title": "Y&Co. is dead or alive[A]",
-   "Coefficient": 1.3147313,
-   "Std. Error": 0.034240915,
-   "t value": 38.39650044,
-   "Pr(>|t|)": 3.43e-12
- },
- {
-   "Song title": "不沈艦CANDY[A]",
-   "Coefficient": 1.370325661,
-   "Std. Error": 0.067553993,
-   "t value": 20.28489496,
-   "Pr(>|t|)": 1.87e-9
- },
- {
-   "Song title": "卑弥呼[A]",
-   "Coefficient": 1.207641137,
-   "Std. Error": 0.036842779,
-   "t value": 32.77823159,
-   "Pr(>|t|)": 1.65e-11
- },
- {
-   "Song title": "Blue Rain[L]",
-   "Coefficient": 1.05364492,
-   "Std. Error": 0.021943786,
-   "t value": 48.01564052,
-   "Pr(>|t|)": 3.7e-13
- },
- {
-   "Song title": "ICARUS[A]",
-   "Coefficient": 1.54302981,
-   "Std. Error": 0.035131332,
-   "t value": 43.92175648,
-   "Pr(>|t|)": 9e-13
- },
- {
-   "Song title": "ICARUS[L]",
-   "Coefficient": 1.378712331,
-   "Std. Error": 0.041528677,
-   "t value": 33.19904302,
-   "Pr(>|t|)": 1.45e-11
- },
- {
-   "Song title": "MENDES[A]",
-   "Coefficient": 1.418530159,
-   "Std. Error": 0.115828148,
-   "t value": 12.24685181,
-   "Pr(>|t|)": 2.41e-7
- },
- {
-   "Song title": "PARANOiA ～HADES～[A]",
-   "Coefficient": 1.438692296,
-   "Std. Error": 0.021199421,
-   "t value": 67.86469845,
-   "Pr(>|t|)": 1.18e-14
- },
- {
-   "Song title": "Ristaccia[A]",
-   "Coefficient": 0.824708045,
-   "Std. Error": 0.046689084,
-   "t value": 17.66383002,
-   "Pr(>|t|)": 7.2e-9
- },
- {
-   "Song title": "THE DEEP STRIKER[L]",
-   "Coefficient": 0.965877747,
-   "Std. Error": 0.037214239,
-   "t value": 25.9545212,
-   "Pr(>|t|)": 1.66e-10
- },
- {
-   "Song title": "TROOPERS[A]",
-   "Coefficient": 1.086943417,
-   "Std. Error": 0.024361395,
-   "t value": 44.6174544,
-   "Pr(>|t|)": 7.69e-13
- },
- {
-   "Song title": "Ubertreffen[L]",
-   "Coefficient": 1.184063752,
-   "Std. Error": 0.032793954,
-   "t value": 36.10616033,
-   "Pr(>|t|)": 6.31e-12
- },
- {
-   "Song title": "oratio[A]",
-   "Coefficient": 1.09481738,
-   "Std. Error": 0.032187511,
-   "t value": 34.01373175,
-   "Pr(>|t|)": 1.14e-11
- },
- {
-   "Song title": "少年A[A]",
-   "Coefficient": 0.967344307,
-   "Std. Error": 0.034672488,
-   "t value": 27.89947804,
-   "Pr(>|t|)": 8.12e-11
- },
- {
-   "Song title": "Candy Galy[A]",
-   "Coefficient": 1.43293459,
-   "Std. Error": 0.121033297,
-   "t value": 11.83917673,
-   "Pr(>|t|)": 3.32e-7
- },
- {
-   "Song title": "FIRE FIRE[A]",
-   "Coefficient": 0.764749303,
-   "Std. Error": 0.050199193,
-   "t value": 15.23429477,
-   "Pr(>|t|)": 3.01e-8
- },
- {
-   "Song title": "Fascination MAXX[A]",
-   "Coefficient": 0.815384333,
-   "Std. Error": 0.08236181,
-   "t value": 9.900029291,
-   "Pr(>|t|)": 0.00000174
- },
- {
-   "Song title": "GRID KNIGHT[L]",
-   "Coefficient": 0.74751988,
-   "Std. Error": 0.054759374,
-   "t value": 13.65099399,
-   "Pr(>|t|)": 8.62e-8
- },
- {
-   "Song title": "GRID KNIGHT[L]",
-   "Coefficient": 0.74751988,
-   "Std. Error": 0.054759374,
-   "t value": 13.65099399,
-   "Pr(>|t|)": 8.62e-8
- },
- {
-   "Song title": "KAMAITACHI[L]",
-   "Coefficient": 1.179047518,
-   "Std. Error": 0.049419701,
-   "t value": 23.85784421,
-   "Pr(>|t|)": 3.8e-10
- },
- {
-   "Song title": "LASER CRUSTER[A]",
-   "Coefficient": 1.144800797,
-   "Std. Error": 0.036309028,
-   "t value": 31.52937084,
-   "Pr(>|t|)": 2.42e-11
- },
- {
-   "Song title": "Sense 2007[A]",
-   "Coefficient": 0.946702925,
-   "Std. Error": 0.021654389,
-   "t value": 43.71875557,
-   "Pr(>|t|)": 9.42e-13
- },
- {
-   "Song title": "VANESSA[A]",
-   "Coefficient": 0.925463584,
-   "Std. Error": 0.041888999,
-   "t value": 22.09323708,
-   "Pr(>|t|)": 8.09e-10
- },
- {
-   "Song title": "VANESSA[L]",
-   "Coefficient": 0.955517485,
-   "Std. Error": 0.033490629,
-   "t value": 28.53089118,
-   "Pr(>|t|)": 6.51e-11
- },
- {
-   "Song title": "snow storm[L]",
-   "Coefficient": 1.11925797,
-   "Std. Error": 0.010902588,
-   "t value": 102.6598422,
-   "Pr(>|t|)": 1.88e-16
- },
- {
-   "Song title": "電人、暁に斃れる。[A]",
-   "Coefficient": 1.197161492,
-   "Std. Error": 0.045691558,
-   "t value": 26.20093415,
-   "Pr(>|t|)": 1.51e-10
- },
- {
-   "Song title": "CONTRACT[L]",
-   "Coefficient": 1.12309916,
-   "Std. Error": 0.029404737,
-   "t value": 38.19449739,
+   "Song title": "DRUNK MONKY[A]",
+   "Coefficient": 1.031476924,
+   "Std. Error": 0.049851634,
+   "t value": 20.6909353,
+   "Pr(>|t|)": 1.54e-9
+ },
+ {
+   "Song title": "Dr. Chemical & Killing Machine[A]",
+   "Coefficient": 1.199075566,
+   "Std. Error": 0.031397484,
+   "t value": 38.19018013,
    "Pr(>|t|)": 3.61e-12
  },
  {
-   "Song title": "Concertino in Blue[A]",
-   "Coefficient": 1.113293316,
-   "Std. Error": 0.032141654,
-   "t value": 34.63708807,
-   "Pr(>|t|)": 9.53e-12
+   "Song title": "Drastic Dramatic[A]",
+   "Coefficient": 1.263477244,
+   "Std. Error": 0.04345371,
+   "t value": 29.07639524,
+   "Pr(>|t|)": 5.4e-11
  },
  {
-   "Song title": "DUE TOMORROW[A]",
-   "Coefficient": 1.121645731,
-   "Std. Error": 0.030882347,
-   "t value": 36.31996449,
-   "Pr(>|t|)": 5.95e-12
+   "Song title": "EVANESCENT[A]",
+   "Coefficient": 1.370007867,
+   "Std. Error": 0.11666643,
+   "t value": 11.74294841,
+   "Pr(>|t|)": 3.58e-7
  },
  {
-   "Song title": "waxing and wanding[L]",
-   "Coefficient": 1.259755386,
-   "Std. Error": 0.052970829,
-   "t value": 23.78205926,
-   "Pr(>|t|)": 3.92e-10
+   "Song title": "GENE[A]",
+   "Coefficient": 1.362272932,
+   "Std. Error": 0.099142343,
+   "t value": 13.74057633,
+   "Pr(>|t|)": 8.1e-8
  },
  {
-   "Song title": "カゴノトリ～弐式～[A]",
-   "Coefficient": 0.851030147,
-   "Std. Error": 0.04141075,
-   "t value": 20.55094739,
-   "Pr(>|t|)": 1.65e-9
+   "Song title": "GO OVER WITH GLARE -ROOTAGE 26-[A]",
+   "Coefficient": 1.135367048,
+   "Std. Error": 0.07560199,
+   "t value": 15.01768735,
+   "Pr(>|t|)": 3.46e-8
  },
  {
-   "Song title": "カゴノトリ～弐式～[A]",
-   "Coefficient": 0.851030147,
-   "Std. Error": 0.04141075,
-   "t value": 20.55094739,
-   "Pr(>|t|)": 1.65e-9
+   "Song title": "HARD BRAIN[A]",
+   "Coefficient": 1.187117093,
+   "Std. Error": 0.11488651,
+   "t value": 10.33295459,
+   "Pr(>|t|)": 0.00000118
  },
  {
-   "Song title": "嘆きの樹[A]",
-   "Coefficient": 1.17525273,
-   "Std. Error": 0.02369093,
-   "t value": 49.60770673,
-   "Pr(>|t|)": 2.68e-13
+   "Song title": "HARD BRAIN[A]",
+   "Coefficient": 1.187117093,
+   "Std. Error": 0.11488651,
+   "t value": 10.33295459,
+   "Pr(>|t|)": 0.00000118
  },
  {
-   "Song title": "Little Little Princess[L]",
-   "Coefficient": 1.459479486,
-   "Std. Error": 0.078466829,
-   "t value": 18.59995487,
-   "Pr(>|t|)": 4.36e-9
+   "Song title": "KILL EACH OTHER[A]",
+   "Coefficient": 1.184861517,
+   "Std. Error": 0.084085965,
+   "t value": 14.0910735,
+   "Pr(>|t|)": 6.37e-8
  },
  {
-   "Song title": "SCREAM SQUAD[A]",
-   "Coefficient": 1.042866276,
-   "Std. Error": 0.046675502,
-   "t value": 22.34290449,
+   "Song title": "L.F.O[A]",
+   "Coefficient": 1.407656145,
+   "Std. Error": 0.138567869,
+   "t value": 10.1586043,
+   "Pr(>|t|)": 0.00000138
+ },
+ {
+   "Song title": "LOST TECHNOLOGIE[A]",
+   "Coefficient": 1.375113572,
+   "Std. Error": 0.075325342,
+   "t value": 18.2556565,
+   "Pr(>|t|)": 5.23e-9
+ },
+ {
+   "Song title": "Lethal Weapon[A]",
+   "Coefficient": 1.133646096,
+   "Std. Error": 0.110710363,
+   "t value": 10.23974694,
+   "Pr(>|t|)": 0.00000128
+ },
+ {
+   "Song title": "Level One[A]",
+   "Coefficient": 1.051160592,
+   "Std. Error": 0.034406104,
+   "t value": 30.55157289,
+   "Pr(>|t|)": 3.31e-11
+ },
+ {
+   "Song title": "Macho Monky[A]",
+   "Coefficient": 1.195128958,
+   "Std. Error": 0.067561097,
+   "t value": 17.6896027,
+   "Pr(>|t|)": 7.1e-9
+ },
+ {
+   "Song title": "ONIGOROSHI[A]",
+   "Coefficient": 0.943199271,
+   "Std. Error": 0.04622684,
+   "t value": 20.40371513,
+   "Pr(>|t|)": 1.77e-9
+ },
+ {
+   "Song title": "Painful Fate[A]",
+   "Coefficient": 1.040068361,
+   "Std. Error": 0.109224466,
+   "t value": 9.522302122,
+   "Pr(>|t|)": 0.00000248
+ },
+ {
+   "Song title": "Please Welcome Mr.C[A]",
+   "Coefficient": 1.296544033,
+   "Std. Error": 0.088051537,
+   "t value": 14.72483135,
+   "Pr(>|t|)": 4.18e-8
+ },
+ {
+   "Song title": "Red. by Jack Trance[A]",
+   "Coefficient": 1.00675954,
+   "Std. Error": 0.04226169,
+   "t value": 23.82203704,
+   "Pr(>|t|)": 3.86e-10
+ },
+ {
+   "Song title": "THE DAY OF JUBILATIONS[A]",
+   "Coefficient": 1.234767141,
+   "Std. Error": 0.073963998,
+   "t value": 16.69416438,
+   "Pr(>|t|)": 1.25e-8
+ },
+ {
+   "Song title": "The Rebellion of Sequencer[A]",
+   "Coefficient": 1.422856148,
+   "Std. Error": 0.068694886,
+   "t value": 20.71269396,
+   "Pr(>|t|)": 1.52e-9
+ },
+ {
+   "Song title": "Trill auf G[A]",
+   "Coefficient": 1.251249072,
+   "Std. Error": 0.050328046,
+   "t value": 24.86186479,
+   "Pr(>|t|)": 2.53e-10
+ },
+ {
+   "Song title": "Unbelief[A]",
+   "Coefficient": 1.219212558,
+   "Std. Error": 0.039631231,
+   "t value": 30.7639338,
+   "Pr(>|t|)": 3.09e-11
+ },
+ {
+   "Song title": "Visterhv[A]",
+   "Coefficient": 1.29588786,
+   "Std. Error": 0.157171033,
+   "t value": 8.245080736,
+   "Pr(>|t|)": 0.00000903
+ },
+ {
+   "Song title": "X-DEN[A]",
+   "Coefficient": 1.150003305,
+   "Std. Error": 0.052494169,
+   "t value": 21.90725799,
+   "Pr(>|t|)": 8.79e-10
+ },
+ {
+   "Song title": "Xlo[A]",
+   "Coefficient": 1.201129072,
+   "Std. Error": 0.023438154,
+   "t value": 51.2467446,
+   "Pr(>|t|)": 1.94e-13
+ },
+ {
+   "Song title": "dAuntl3ss[A]",
+   "Coefficient": 1.196083848,
+   "Std. Error": 0.050649251,
+   "t value": 23.61503546,
+   "Pr(>|t|)": 4.21e-10
+ },
+ {
+   "Song title": "ruin of opals[A]",
+   "Coefficient": 1.20485067,
+   "Std. Error": 0.059035696,
+   "t value": 20.40884998,
+   "Pr(>|t|)": 1.76e-9
+ },
+ {
+   "Song title": "voltississimo[A]",
+   "Coefficient": 1.144366288,
+   "Std. Error": 0.082044549,
+   "t value": 13.94810872,
+   "Pr(>|t|)": 7.02e-8
+ },
+ {
+   "Song title": "お菓子の王国[A]",
+   "Coefficient": 1.50365913,
+   "Std. Error": 0.105473604,
+   "t value": 14.25626006,
+   "Pr(>|t|)": 5.69e-8
+ },
+ {
+   "Song title": "抱きしめてモナムール[A]",
+   "Coefficient": 1.268563275,
+   "Std. Error": 0.127177329,
+   "t value": 9.974759556,
+   "Pr(>|t|)": 0.00000163
+ },
+ {
+   "Song title": "最小三倍完全数[A]",
+   "Coefficient": 1.191468702,
+   "Std. Error": 0.078296713,
+   "t value": 15.21735286,
+   "Pr(>|t|)": 3.04e-8
+ },
+ {
+   "Song title": "金野火織の金色提言[A]",
+   "Coefficient": 1.322768674,
+   "Std. Error": 0.06519235,
+   "t value": 20.2902437,
+   "Pr(>|t|)": 1.86e-9
+ },
+ {
+   "Song title": "255[A]",
+   "Coefficient": 1.102851637,
+   "Std. Error": 0.025427512,
+   "t value": 43.37237686,
+   "Pr(>|t|)": 1.02e-12
+ },
+ {
+   "Song title": "AA -rebuild-[A]",
+   "Coefficient": 1.444987088,
+   "Std. Error": 0.15628179,
+   "t value": 9.2460362,
+   "Pr(>|t|)": 0.00000324
+ },
+ {
+   "Song title": "ANCHOR[A]",
+   "Coefficient": 1.360651752,
+   "Std. Error": 0.158407184,
+   "t value": 8.589583604,
+   "Pr(>|t|)": 0.00000628
+ },
+ {
+   "Song title": "Antigravity[A]",
+   "Coefficient": 1.251040553,
+   "Std. Error": 0.064337255,
+   "t value": 19.44504102,
+   "Pr(>|t|)": 2.83e-9
+ },
+ {
+   "Song title": "Arca[A]",
+   "Coefficient": 1.111395984,
+   "Std. Error": 0.074348064,
+   "t value": 14.94855308,
+   "Pr(>|t|)": 3.61e-8
+ },
+ {
+   "Song title": "Boomy and The Boost[A]",
+   "Coefficient": 1.00720639,
+   "Std. Error": 0.045080959,
+   "t value": 22.34216853,
    "Pr(>|t|)": 7.25e-10
  },
  {
-   "Song title": "SCREAM SQUAD[A]",
-   "Coefficient": 1.042866276,
-   "Std. Error": 0.046675502,
-   "t value": 22.34290449,
-   "Pr(>|t|)": 7.25e-10
+   "Song title": "DEADHEAT[A]",
+   "Coefficient": 1.391191274,
+   "Std. Error": 0.086704246,
+   "t value": 16.04524974,
+   "Pr(>|t|)": 1.83e-8
  },
  {
-   "Song title": "Scripted Connection⇒ A mix[A]",
-   "Coefficient": 0.867525731,
-   "Std. Error": 0.044206431,
-   "t value": 19.62442364,
-   "Pr(>|t|)": 2.58e-9
+   "Song title": "DEADHEAT[A]",
+   "Coefficient": 1.391191274,
+   "Std. Error": 0.086704246,
+   "t value": 16.04524974,
+   "Pr(>|t|)": 1.83e-8
  },
  {
-   "Song title": "Twelfth Style[L]",
-   "Coefficient": 1.196045832,
-   "Std. Error": 0.043452584,
-   "t value": 27.52530975,
-   "Pr(>|t|)": 9.28e-11
+   "Song title": "DEATH†ZIGOQ ～怒りの高速爆走野郎～[A]",
+   "Coefficient": 1.21012733,
+   "Std. Error": 0.149112747,
+   "t value": 8.115518972,
+   "Pr(>|t|)": 0.0000104
  },
  {
-   "Song title": "rage against usual[A]",
-   "Coefficient": 1.119310725,
-   "Std. Error": 0.023914933,
-   "t value": 46.80384123,
-   "Pr(>|t|)": 4.78e-13
+   "Song title": "DropZ-Line-[A]",
+   "Coefficient": 1.008933543,
+   "Std. Error": 0.096747001,
+   "t value": 10.42857691,
+   "Pr(>|t|)": 0.00000108
  },
  {
-   "Song title": "冥[A]",
-   "Coefficient": 1.107097648,
-   "Std. Error": 0.047129484,
-   "t value": 23.49055304,
-   "Pr(>|t|)": 4.43e-10
+   "Song title": "EMERALDAS[A]",
+   "Coefficient": 1.199860351,
+   "Std. Error": 0.049779261,
+   "t value": 24.1036191,
+   "Pr(>|t|)": 3.44e-10
  },
  {
-   "Song title": "AA[A]",
-   "Coefficient": 1.259446989,
-   "Std. Error": 0.034441598,
-   "t value": 36.56761158,
-   "Pr(>|t|)": 5.56e-12
+   "Song title": "Illusionary Waterlily[A]",
+   "Coefficient": 1.151182507,
+   "Std. Error": 0.035080917,
+   "t value": 32.81506342,
+   "Pr(>|t|)": 1.63e-11
  },
  {
-   "Song title": "AA[A]",
-   "Coefficient": 1.259446989,
-   "Std. Error": 0.034441598,
-   "t value": 36.56761158,
-   "Pr(>|t|)": 5.56e-12
+   "Song title": "Initiation[A]",
+   "Coefficient": 0.966433739,
+   "Std. Error": 0.04938444,
+   "t value": 19.56960005,
+   "Pr(>|t|)": 2.65e-9
  },
  {
-   "Song title": "FAKE TIME[A]",
-   "Coefficient": 1.173325115,
-   "Std. Error": 0.069632798,
-   "t value": 16.85017916,
-   "Pr(>|t|)": 1.14e-8
+   "Song title": "Life Is A Game ft.DD\"ナカタ\"Metal[A]",
+   "Coefficient": 1.264982721,
+   "Std. Error": 0.066918672,
+   "t value": 18.90328491,
+   "Pr(>|t|)": 3.72e-9
  },
  {
-   "Song title": "RED ZONE[L]",
-   "Coefficient": 1.010062229,
-   "Std. Error": 0.032426087,
-   "t value": 31.14968023,
-   "Pr(>|t|)": 2.73e-11
+   "Song title": "NITROUS CANNON[A]",
+   "Coefficient": 1.356051647,
+   "Std. Error": 0.092728779,
+   "t value": 14.62384877,
+   "Pr(>|t|)": 4.46e-8
  },
  {
-   "Song title": "gigadelic[H]",
-   "Coefficient": 1.001928756,
-   "Std. Error": 0.053507499,
-   "t value": 18.72501573,
-   "Pr(>|t|)": 4.08e-9
+   "Song title": "Papilio ulysses[A]",
+   "Coefficient": 1.018783893,
+   "Std. Error": 0.021812121,
+   "t value": 46.70723543,
+   "Pr(>|t|)": 4.88e-13
  },
  {
-   "Song title": "gigadelic[A]",
-   "Coefficient": 1.221577999,
-   "Std. Error": 0.05974661,
-   "t value": 20.44598003,
+   "Song title": "Persephone[A]",
+   "Coefficient": 1.124989617,
+   "Std. Error": 0.040978809,
+   "t value": 27.45296044,
+   "Pr(>|t|)": 9.53e-11
+ },
+ {
+   "Song title": "Rampage[A]",
+   "Coefficient": 1.097015774,
+   "Std. Error": 0.018101484,
+   "t value": 60.6036369,
+   "Pr(>|t|)": 3.64e-14
+ },
+ {
+   "Song title": "Raspberry Railgun[A]",
+   "Coefficient": 0.908768441,
+   "Std. Error": 0.054190702,
+   "t value": 16.76982229,
+   "Pr(>|t|)": 1.19e-8
+ },
+ {
+   "Song title": "Slipstream[A]",
+   "Coefficient": 1.098927059,
+   "Std. Error": 0.033468164,
+   "t value": 32.83499731,
+   "Pr(>|t|)": 1.62e-11
+ },
+ {
+   "Song title": "The Chase[A]",
+   "Coefficient": 0.87608253,
+   "Std. Error": 0.036448461,
+   "t value": 24.03620091,
+   "Pr(>|t|)": 3.53e-10
+ },
+ {
+   "Song title": "The Chase[A]",
+   "Coefficient": 0.87608253,
+   "Std. Error": 0.036448461,
+   "t value": 24.03620091,
+   "Pr(>|t|)": 3.53e-10
+ },
+ {
+   "Song title": "VOX RUSH[A]",
+   "Coefficient": 1.003010276,
+   "Std. Error": 0.096272169,
+   "t value": 10.41848631,
+   "Pr(>|t|)": 0.00000109
+ },
+ {
+   "Song title": "Xperanza[A]",
+   "Coefficient": 1.004488995,
+   "Std. Error": 0.028820714,
+   "t value": 34.85302272,
+   "Pr(>|t|)": 8.96e-12
+ },
+ {
+   "Song title": "encounter[A]",
+   "Coefficient": 1.276566064,
+   "Std. Error": 0.0780648,
+   "t value": 16.35264626,
+   "Pr(>|t|)": 1.52e-8
+ },
+ {
+   "Song title": "シムルグの目醒め[A]",
+   "Coefficient": 1.315666908,
+   "Std. Error": 0.103123556,
+   "t value": 12.75816083,
+   "Pr(>|t|)": 1.64e-7
+ },
+ {
+   "Song title": "東京神話[A]",
+   "Coefficient": 1.429681437,
+   "Std. Error": 0.082257408,
+   "t value": 17.38057973,
+   "Pr(>|t|)": 8.43e-9
+ },
+ {
+   "Song title": "神謳 -RESONANCE-[A]",
+   "Coefficient": 1.466746069,
+   "Std. Error": 0.18024543,
+   "t value": 8.13749382,
+   "Pr(>|t|)": 0.0000101
+ },
+ {
+   "Song title": "#MAGiCVLGiRL_TRVP_B3VTZ[A]",
+   "Coefficient": 1.014550764,
+   "Std. Error": 0.034111417,
+   "t value": 29.74226357,
+   "Pr(>|t|)": 4.32e-11
+ },
+ {
+   "Song title": "Amazing Mirage[L]",
+   "Coefficient": 1.201586783,
+   "Std. Error": 0.046590736,
+   "t value": 25.79025113,
+   "Pr(>|t|)": 1.77e-10
+ },
+ {
+   "Song title": "Apocalypse[A]",
+   "Coefficient": 1.048576632,
+   "Std. Error": 0.036461471,
+   "t value": 28.75848377,
+   "Pr(>|t|)": 6.02e-11
+ },
+ {
+   "Song title": "Caterpillar[A]",
+   "Coefficient": 0.805990106,
+   "Std. Error": 0.053430204,
+   "t value": 15.08491535,
+   "Pr(>|t|)": 3.31e-8
+ },
+ {
+   "Song title": "DORNWALD ～Junge～[A]",
+   "Coefficient": 1.447609327,
+   "Std. Error": 0.108277513,
+   "t value": 13.36943637,
+   "Pr(>|t|)": 1.05e-7
+ },
+ {
+   "Song title": "ECHIDNA[A]",
+   "Coefficient": 0.943081781,
+   "Std. Error": 0.045115472,
+   "t value": 20.90373289,
+   "Pr(>|t|)": 1.39e-9
+ },
+ {
+   "Song title": "FUZIN RIZIN[A]",
+   "Coefficient": 1.367218701,
+   "Std. Error": 0.076780762,
+   "t value": 17.80678742,
+   "Pr(>|t|)": 6.66e-9
+ },
+ {
+   "Song title": "Go Ahead!![A]",
+   "Coefficient": 1.114828042,
+   "Std. Error": 0.045299941,
+   "t value": 24.60992266,
+   "Pr(>|t|)": 2.8e-10
+ },
+ {
+   "Song title": "GuNGNiR[A]",
+   "Coefficient": 1.230824382,
+   "Std. Error": 0.049751399,
+   "t value": 24.73949296,
+   "Pr(>|t|)": 2.66e-10
+ },
+ {
+   "Song title": "HADES[A]",
+   "Coefficient": 1.156853965,
+   "Std. Error": 0.038210641,
+   "t value": 30.27570126,
+   "Pr(>|t|)": 3.62e-11
+ },
+ {
+   "Song title": "Mare Nectaris[A]",
+   "Coefficient": 1.201522571,
+   "Std. Error": 0.021720427,
+   "t value": 55.31763224,
+   "Pr(>|t|)": 9.04e-14
+ },
+ {
+   "Song title": "OTENAMI Hurricane[A]",
+   "Coefficient": 1.241723366,
+   "Std. Error": 0.075374497,
+   "t value": 16.47405185,
+   "Pr(>|t|)": 1.42e-8
+ },
+ {
+   "Song title": "OTENAMI Hurricane[A]",
+   "Coefficient": 1.241723366,
+   "Std. Error": 0.075374497,
+   "t value": 16.47405185,
+   "Pr(>|t|)": 1.42e-8
+ },
+ {
+   "Song title": "Quakes[A]",
+   "Coefficient": 1.336583353,
+   "Std. Error": 0.099338667,
+   "t value": 13.45481461,
+   "Pr(>|t|)": 9.89e-8
+ },
+ {
+   "Song title": "RAIN[A]",
+   "Coefficient": 1.179800549,
+   "Std. Error": 0.039881626,
+   "t value": 29.58255909,
+   "Pr(>|t|)": 4.55e-11
+ },
+ {
+   "Song title": "Rave Cannon[A]",
+   "Coefficient": 0.951140198,
+   "Std. Error": 0.119819701,
+   "t value": 7.938095238,
+   "Pr(>|t|)": 0.0000126
+ },
+ {
+   "Song title": "SAY BAY[A]",
+   "Coefficient": 1.258921398,
+   "Std. Error": 0.043512572,
+   "t value": 28.93235989,
+   "Pr(>|t|)": 5.67e-11
+ },
+ {
+   "Song title": "Sky High[A]",
+   "Coefficient": 1.339624019,
+   "Std. Error": 0.096053537,
+   "t value": 13.94663912,
+   "Pr(>|t|)": 7.02e-8
+ },
+ {
+   "Song title": "Snakey Kung-fu[A]",
+   "Coefficient": 1.167657356,
+   "Std. Error": 0.039021408,
+   "t value": 29.92350648,
+   "Pr(>|t|)": 4.06e-11
+ },
+ {
+   "Song title": "Steel Edge[A]",
+   "Coefficient": 0.898939958,
+   "Std. Error": 0.043135831,
+   "t value": 20.83975032,
+   "Pr(>|t|)": 1.44e-9
+ },
+ {
+   "Song title": "Summerlights(IIDX Edition)[A]",
+   "Coefficient": 1.172521684,
+   "Std. Error": 0.068047624,
+   "t value": 17.23089834,
+   "Pr(>|t|)": 9.16e-9
+ },
+ {
+   "Song title": "Super Rush[A]",
+   "Coefficient": 1.162085783,
+   "Std. Error": 0.035536657,
+   "t value": 32.70104415,
+   "Pr(>|t|)": 1.69e-11
+ },
+ {
+   "Song title": "TOGAKUSHI[A]",
+   "Coefficient": 1.135958981,
+   "Std. Error": 0.044576804,
+   "t value": 25.48318571,
+   "Pr(>|t|)": 1.99e-10
+ },
+ {
+   "Song title": "Venom[A]",
+   "Coefficient": 1.129200076,
+   "Std. Error": 0.031969453,
+   "t value": 35.3212199,
+   "Pr(>|t|)": 7.85e-12
+ },
+ {
+   "Song title": "〆[A]",
+   "Coefficient": 1.085540343,
+   "Std. Error": 0.03705965,
+   "t value": 29.2917055,
+   "Pr(>|t|)": 5.02e-11
+ },
+ {
+   "Song title": "イザナミノナゲキ[A]",
+   "Coefficient": 1.428789053,
+   "Std. Error": 0.13346782,
+   "t value": 10.7051202,
+   "Pr(>|t|)": 8.48e-7
+ },
+ {
+   "Song title": "イザナミノナゲキ[A]",
+   "Coefficient": 1.428789053,
+   "Std. Error": 0.13346782,
+   "t value": 10.7051202,
+   "Pr(>|t|)": 8.48e-7
+ },
+ {
+   "Song title": "九尾狐夜行[A]",
+   "Coefficient": 1.425460012,
+   "Std. Error": 0.063278891,
+   "t value": 22.52662743,
+   "Pr(>|t|)": 6.69e-10
+ },
+ {
+   "Song title": "刃図羅[A]",
+   "Coefficient": 1.212377318,
+   "Std. Error": 0.039769317,
+   "t value": 30.48524377,
+   "Pr(>|t|)": 3.38e-11
+ },
+ {
+   "Song title": "津軽雪[A]",
+   "Coefficient": 1.111371891,
+   "Std. Error": 0.021042511,
+   "t value": 52.81555391,
+   "Pr(>|t|)": 1.43e-13
+ },
+ {
+   "Song title": "火影[A]",
+   "Coefficient": 1.051089579,
+   "Std. Error": 0.032222931,
+   "t value": 32.61930365,
+   "Pr(>|t|)": 1.73e-11
+ },
+ {
+   "Song title": "焔極OVERKILL[A]",
+   "Coefficient": 1.152854731,
+   "Std. Error": 0.04646899,
+   "t value": 24.80911959,
+   "Pr(>|t|)": 2.59e-10
+ },
+ {
+   "Song title": "童話回廊[A]",
+   "Coefficient": 1.439961075,
+   "Std. Error": 0.117886865,
+   "t value": 12.2147711,
+   "Pr(>|t|)": 2.47e-7
+ },
+ {
+   "Song title": "199024club -Re:BounceKiller-[A]",
+   "Coefficient": 0.994302755,
+   "Std. Error": 0.06816591,
+   "t value": 14.58651035,
+   "Pr(>|t|)": 4.57e-8
+ },
+ {
+   "Song title": "AO-1[A]",
+   "Coefficient": 1.090385086,
+   "Std. Error": 0.05455724,
+   "t value": 19.98607498,
+   "Pr(>|t|)": 2.16e-9
+ },
+ {
+   "Song title": "Blue Spring Express[A]",
+   "Coefficient": 1.37453103,
+   "Std. Error": 0.071593956,
+   "t value": 19.19898137,
+   "Pr(>|t|)": 3.2e-9
+ },
+ {
+   "Song title": "CODE:1 [revision1.0.1][A]",
+   "Coefficient": 0.949741883,
+   "Std. Error": 0.067626295,
+   "t value": 14.04397325,
+   "Pr(>|t|)": 6.57e-8
+ },
+ {
+   "Song title": "DIAMOND CROSSING[A]",
+   "Coefficient": 1.130350833,
+   "Std. Error": 0.077981804,
+   "t value": 14.49505871,
+   "Pr(>|t|)": 4.86e-8
+ },
+ {
+   "Song title": "Devil's Gear[A]",
+   "Coefficient": 1.50602336,
+   "Std. Error": 0.150930485,
+   "t value": 9.978258246,
+   "Pr(>|t|)": 0.00000162
+ },
+ {
+   "Song title": "Dynamite[A]",
+   "Coefficient": 0.901815611,
+   "Std. Error": 0.047980029,
+   "t value": 18.79564524,
+   "Pr(>|t|)": 3.94e-9
+ },
+ {
+   "Song title": "Godspeed[A]",
+   "Coefficient": 1.182344036,
+   "Std. Error": 0.031852005,
+   "t value": 37.11992535,
+   "Pr(>|t|)": 4.79e-12
+ },
+ {
+   "Song title": "Grand Chariot[A]",
+   "Coefficient": 1.238250096,
+   "Std. Error": 0.053665723,
+   "t value": 23.07338888,
+   "Pr(>|t|)": 5.28e-10
+ },
+ {
+   "Song title": "Highcharge Divolt[A]",
+   "Coefficient": 1.132753155,
+   "Std. Error": 0.034462876,
+   "t value": 32.86879342,
+   "Pr(>|t|)": 1.6e-11
+ },
+ {
+   "Song title": "Konzert V[A]",
+   "Coefficient": 1.378039738,
+   "Std. Error": 0.092909648,
+   "t value": 14.83204126,
+   "Pr(>|t|)": 3.9e-8
+ },
+ {
+   "Song title": "M4K3 1T B0UNC3[A]",
+   "Coefficient": 1.093055621,
+   "Std. Error": 0.04148243,
+   "t value": 26.34984529,
+   "Pr(>|t|)": 1.43e-10
+ },
+ {
+   "Song title": "NINJA IS DEAD IIDX ver.[A]",
+   "Coefficient": 0.995129824,
+   "Std. Error": 0.034620968,
+   "t value": 28.74355866,
+   "Pr(>|t|)": 6.05e-11
+ },
+ {
+   "Song title": "NINJA IS DEAD IIDX ver.[A]",
+   "Coefficient": 0.995129824,
+   "Std. Error": 0.034620968,
+   "t value": 28.74355866,
+   "Pr(>|t|)": 6.05e-11
+ },
+ {
+   "Song title": "NZM[A]",
+   "Coefficient": 1.255076627,
+   "Std. Error": 0.076920371,
+   "t value": 16.31657014,
+   "Pr(>|t|)": 1.55e-8
+ },
+ {
+   "Song title": "Nightmare before oversleep[A]",
+   "Coefficient": 1.311700588,
+   "Std. Error": 0.084418257,
+   "t value": 15.53811512,
+   "Pr(>|t|)": 2.49e-8
+ },
+ {
+   "Song title": "POSSESSION[A]",
+   "Coefficient": 0.737966575,
+   "Std. Error": 0.055455509,
+   "t value": 13.30736276,
+   "Pr(>|t|)": 1.1e-7
+ },
+ {
+   "Song title": "STARLIGHT DANCEHALL[L]",
+   "Coefficient": 0.925602744,
+   "Std. Error": 0.054436444,
+   "t value": 17.00336547,
+   "Pr(>|t|)": 1.04e-8
+ },
+ {
+   "Song title": "StrayedCatz[A]",
+   "Coefficient": 1.043363864,
+   "Std. Error": 0.035388657,
+   "t value": 29.48300239,
+   "Pr(>|t|)": 4.71e-11
+ },
+ {
+   "Song title": "Triple Counter[A]",
+   "Coefficient": 1.236831478,
+   "Std. Error": 0.081216092,
+   "t value": 15.22889679,
+   "Pr(>|t|)": 3.02e-8
+ },
+ {
+   "Song title": "Welcome[L]",
+   "Coefficient": 1.066926188,
+   "Std. Error": 0.032637941,
+   "t value": 32.68975212,
+   "Pr(>|t|)": 1.69e-11
+ },
+ {
+   "Song title": "X[A]",
+   "Coefficient": 1.296583916,
+   "Std. Error": 0.158519006,
+   "t value": 8.179359377,
+   "Pr(>|t|)": 0.00000969
+ },
+ {
+   "Song title": "refrain[A]",
+   "Coefficient": 1.513735442,
+   "Std. Error": 0.075164616,
+   "t value": 20.13893671,
+   "Pr(>|t|)": 2.01e-9
+ },
+ {
+   "Song title": "めいさいアイドル☆あいむちゃん♪[A]",
+   "Coefficient": 1.398538712,
+   "Std. Error": 0.038537712,
+   "t value": 36.29013326,
+   "Pr(>|t|)": 6e-12
+ },
+ {
+   "Song title": "灼熱 Pt.2 Long Train Running[A]",
+   "Coefficient": 0.775751459,
+   "Std. Error": 0.031838145,
+   "t value": 24.36547286,
+   "Pr(>|t|)": 3.09e-10
+ },
+ {
+   "Song title": "真 地獄超特急 -HELL or HELL-[A]",
+   "Coefficient": 0.935948543,
+   "Std. Error": 0.026610372,
+   "t value": 35.1723205,
+   "Pr(>|t|)": 8.19e-12
+ },
+ {
+   "Song title": "紫陽花 -AZISAI-[A]",
+   "Coefficient": 1.210970744,
+   "Std. Error": 0.049837569,
+   "t value": 24.29835096,
+   "Pr(>|t|)": 3.18e-10
+ },
+ {
+   "Song title": "駅猫のワルツ[A]",
+   "Coefficient": 1.234771288,
+   "Std. Error": 0.026588048,
+   "t value": 46.44083936,
+   "Pr(>|t|)": 5.16e-13
+ },
+ {
+   "Song title": "BLUE MIRAGE[A]",
+   "Coefficient": 1.113056924,
+   "Std. Error": 0.032915527,
+   "t value": 33.81555835,
+   "Pr(>|t|)": 1.21e-11
+ },
+ {
+   "Song title": "Beat Radiance[L]",
+   "Coefficient": 1.152382706,
+   "Std. Error": 0.06457272,
+   "t value": 17.84627792,
+   "Pr(>|t|)": 6.52e-9
+ },
+ {
+   "Song title": "Broken Sword[A]",
+   "Coefficient": 1.357188462,
+   "Std. Error": 0.073040046,
+   "t value": 18.58142944,
+   "Pr(>|t|)": 4.4e-9
+ },
+ {
+   "Song title": "Broken Sword[A]",
+   "Coefficient": 1.357188462,
+   "Std. Error": 0.073040046,
+   "t value": 18.58142944,
+   "Pr(>|t|)": 4.4e-9
+ },
+ {
+   "Song title": "CHRONO DIVER -NORNIR-[L]",
+   "Coefficient": 1.454247554,
+   "Std. Error": 0.150995975,
+   "t value": 9.631035256,
+   "Pr(>|t|)": 0.00000224
+ },
+ {
+   "Song title": "CHRONO DIVER -NORNIR-[L]",
+   "Coefficient": 1.454247554,
+   "Std. Error": 0.150995975,
+   "t value": 9.631035256,
+   "Pr(>|t|)": 0.00000224
+ },
+ {
+   "Song title": "Chrono Diver -PENDULUMs-[A]",
+   "Coefficient": 1.020715897,
+   "Std. Error": 0.030713266,
+   "t value": 33.23371404,
+   "Pr(>|t|)": 1.44e-11
+ },
+ {
+   "Song title": "Cosmic Cat[L]",
+   "Coefficient": 1.177662796,
+   "Std. Error": 0.052618131,
+   "t value": 22.38131175,
+   "Pr(>|t|)": 7.13e-10
+ },
+ {
+   "Song title": "Despair of ELFERIA[A]",
+   "Coefficient": 1.239847076,
+   "Std. Error": 0.140968034,
+   "t value": 8.795235662,
+   "Pr(>|t|)": 0.00000509
+ },
+ {
+   "Song title": "EBONY & IVORY[A]",
+   "Coefficient": 1.21234015,
+   "Std. Error": 0.043062533,
+   "t value": 28.15301545,
+   "Pr(>|t|)": 7.43e-11
+ },
+ {
+   "Song title": "EBONY & IVORY[L]",
+   "Coefficient": 1.514419677,
+   "Std. Error": 0.056929431,
+   "t value": 26.6017006,
+   "Pr(>|t|)": 1.3e-10
+ },
+ {
+   "Song title": "FANTASTIC THREE[A]",
+   "Coefficient": 1.227312993,
+   "Std. Error": 0.080402044,
+   "t value": 15.26469897,
+   "Pr(>|t|)": 2.95e-8
+ },
+ {
+   "Song title": "Flashes[A]",
+   "Coefficient": 1.309247626,
+   "Std. Error": 0.101988039,
+   "t value": 12.83726637,
+   "Pr(>|t|)": 1.55e-7
+ },
+ {
+   "Song title": "Gravigazer[A]",
+   "Coefficient": 1.036752849,
+   "Std. Error": 0.049300245,
+   "t value": 21.02936508,
+   "Pr(>|t|)": 1.31e-9
+ },
+ {
+   "Song title": "IMPLANTATION[A]",
+   "Coefficient": 1.01657915,
+   "Std. Error": 0.038321892,
+   "t value": 26.52737405,
+   "Pr(>|t|)": 1.34e-10
+ },
+ {
+   "Song title": "Invitation from Mr.C[A]",
+   "Coefficient": 1.031409187,
+   "Std. Error": 0.040626122,
+   "t value": 25.3878327,
+   "Pr(>|t|)": 2.06e-10
+ },
+ {
+   "Song title": "Monopole.[A]",
+   "Coefficient": 1.150927773,
+   "Std. Error": 0.136646193,
+   "t value": 8.422684515,
+   "Pr(>|t|)": 0.00000748
+ },
+ {
+   "Song title": "NEO GENERATOR SEVEN[A]",
+   "Coefficient": 1.362554942,
+   "Std. Error": 0.059029933,
+   "t value": 23.08244086,
+   "Pr(>|t|)": 5.26e-10
+ },
+ {
+   "Song title": "Rave*it!! Rave*it!! [A]",
+   "Coefficient": 1.048413539,
+   "Std. Error": 0.02320939,
+   "t value": 45.17195658,
+   "Pr(>|t|)": 6.8e-13
+ },
+ {
+   "Song title": "Reflux[A]",
+   "Coefficient": 1.03311818,
+   "Std. Error": 0.039929943,
+   "t value": 25.87326941,
+   "Pr(>|t|)": 1.71e-10
+ },
+ {
+   "Song title": "Say YEEEAHH[A]",
+   "Coefficient": 1.301746142,
+   "Std. Error": 0.066940257,
+   "t value": 19.446387,
+   "Pr(>|t|)": 2.82e-9
+ },
+ {
+   "Song title": "Shooting Fireball[A]",
+   "Coefficient": 1.158247517,
+   "Std. Error": 0.034536648,
+   "t value": 33.53676657,
+   "Pr(>|t|)": 1.31e-11
+ },
+ {
+   "Song title": "SpaceLand☆TOYBOX[A]",
+   "Coefficient": 1.125882262,
+   "Std. Error": 0.042689436,
+   "t value": 26.37379109,
+   "Pr(>|t|)": 1.42e-10
+ },
+ {
+   "Song title": "Symmetry[A]",
+   "Coefficient": 1.09127167,
+   "Std. Error": 0.063608022,
+   "t value": 17.15619566,
+   "Pr(>|t|)": 9.56e-9
+ },
+ {
+   "Song title": "TIEFSEE[A]",
+   "Coefficient": 1.117518932,
+   "Std. Error": 0.027140472,
+   "t value": 41.17536837,
+   "Pr(>|t|)": 1.71e-12
+ },
+ {
+   "Song title": "TOXIC VIBRATION[A]",
+   "Coefficient": 1.335818742,
+   "Std. Error": 0.084767209,
+   "t value": 15.75867314,
+   "Pr(>|t|)": 2.17e-8
+ },
+ {
+   "Song title": "The Least 100sec[A]",
+   "Coefficient": 1.417580693,
+   "Std. Error": 0.114758243,
+   "t value": 12.35275707,
+   "Pr(>|t|)": 2.22e-7
+ },
+ {
+   "Song title": "We're so Happy (P*Light Remix) IIDX ver.[A]",
+   "Coefficient": 1.233519789,
+   "Std. Error": 0.067077903,
+   "t value": 18.38936127,
+   "Pr(>|t|)": 4.87e-9
+ },
+ {
+   "Song title": "ZZ[A]",
+   "Coefficient": 1.165983136,
+   "Std. Error": 0.042714759,
+   "t value": 27.29696145,
+   "Pr(>|t|)": 1.01e-10
+ },
+ {
+   "Song title": "cinder[A]",
+   "Coefficient": 1.339881122,
+   "Std. Error": 0.055810727,
+   "t value": 24.00759124,
+   "Pr(>|t|)": 3.58e-10
+ },
+ {
+   "Song title": "entelecheia[A]",
+   "Coefficient": 1.14843322,
+   "Std. Error": 0.210206903,
+   "t value": 5.463346851,
+   "Pr(>|t|)": 0.000275625
+ },
+ {
+   "Song title": "fallen leaves -IIDX edition-[A]",
+   "Coefficient": 1.31630199,
+   "Std. Error": 0.075158454,
+   "t value": 17.51369174,
+   "Pr(>|t|)": 7.82e-9
+ },
+ {
+   "Song title": "それは花火のような恋[A]",
+   "Coefficient": 1.26107376,
+   "Std. Error": 0.041613993,
+   "t value": 30.30407948,
+   "Pr(>|t|)": 3.59e-11
+ },
+ {
+   "Song title": "リリーゼと炎龍レーヴァテイン[A]",
+   "Coefficient": 1.158417542,
+   "Std. Error": 0.063047105,
+   "t value": 18.37384191,
+   "Pr(>|t|)": 4.91e-9
+ },
+ {
+   "Song title": "共鳴遊戯の華[A]",
+   "Coefficient": 1.262166827,
+   "Std. Error": 0.079033429,
+   "t value": 15.97003749,
+   "Pr(>|t|)": 1.91e-8
+ },
+ {
+   "Song title": "千年ノ理[A]",
+   "Coefficient": 1.047079537,
+   "Std. Error": 0.022964232,
+   "t value": 45.59610476,
+   "Pr(>|t|)": 6.2e-13
+ },
+ {
+   "Song title": "千年ノ理[L]",
+   "Coefficient": 1.198391527,
+   "Std. Error": 0.040880166,
+   "t value": 29.31474225,
+   "Pr(>|t|)": 4.98e-11
+ },
+ {
+   "Song title": "夏色DIARY - L.E.D.-G STYLE MIX -[A]",
+   "Coefficient": 1.248660935,
+   "Std. Error": 0.107151007,
+   "t value": 11.65328232,
+   "Pr(>|t|)": 3.85e-7
+ },
+ {
+   "Song title": "少年は空を辿る[A]",
+   "Coefficient": 1.182521458,
+   "Std. Error": 0.03979492,
+   "t value": 29.71538713,
+   "Pr(>|t|)": 4.35e-11
+ },
+ {
+   "Song title": "紅牡丹[A]",
+   "Coefficient": 1.125700774,
+   "Std. Error": 0.04116678,
+   "t value": 27.34488254,
+   "Pr(>|t|)": 9.91e-11
+ },
+ {
+   "Song title": "表裏一体！？怪盗いいんちょの悩み[A]",
+   "Coefficient": 1.075496069,
+   "Std. Error": 0.052595537,
+   "t value": 20.44842844,
    "Pr(>|t|)": 1.73e-9
  },
  {
-   "Song title": "spiral galaxy[L]",
-   "Coefficient": 1.023555355,
-   "Std. Error": 0.022751821,
-   "t value": 44.98784279,
-   "Pr(>|t|)": 7.08e-13
+   "Song title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲[L]",
+   "Coefficient": 1.494067646,
+   "Std. Error": 0.0912954,
+   "t value": 16.36520176,
+   "Pr(>|t|)": 1.51e-8
  },
  {
-   "Song title": "ピアノ協奏曲第１番”蠍火”[A]",
-   "Coefficient": 1.367424292,
-   "Std. Error": 0.059399353,
-   "t value": 23.02086185,
-   "Pr(>|t|)": 5.4e-10
+   "Song title": "Adularia[A]",
+   "Coefficient": 1.217635848,
+   "Std. Error": 0.181410804,
+   "t value": 6.71203599,
+   "Pr(>|t|)": 0.0000528
  },
  {
-   "Song title": "Innocent Walls[H]",
-   "Coefficient": 0.792249219,
-   "Std. Error": 0.064357783,
-   "t value": 12.31007621,
-   "Pr(>|t|)": 2.3e-7
+   "Song title": "Ancient Scapes[A]",
+   "Coefficient": 1.25180386,
+   "Std. Error": 0.047691319,
+   "t value": 26.24804435,
+   "Pr(>|t|)": 1.48e-10
  },
  {
-   "Song title": "Innocent Walls[A]",
-   "Coefficient": 0.974776051,
-   "Std. Error": 0.040946768,
-   "t value": 23.80593391,
-   "Pr(>|t|)": 3.89e-10
+   "Song title": "Ancient Scapes[L]",
+   "Coefficient": 1.687246945,
+   "Std. Error": 0.225516215,
+   "t value": 7.481710112,
+   "Pr(>|t|)": 0.0000211
  },
  {
-   "Song title": "One More Lovely[A]",
-   "Coefficient": 1.22354769,
-   "Std. Error": 0.027646695,
-   "t value": 44.25656211,
-   "Pr(>|t|)": 8.34e-13
+   "Song title": "BLUE DRAGON(雷龍RemixIIDX)[A]",
+   "Coefficient": 0.996378986,
+   "Std. Error": 0.025370852,
+   "t value": 39.27258748,
+   "Pr(>|t|)": 2.74e-12
  },
  {
-   "Song title": "雪月花[A]",
-   "Coefficient": 0.860794227,
-   "Std. Error": 0.041650043,
-   "t value": 20.66730703,
-   "Pr(>|t|)": 1.56e-9
+   "Song title": "Close the World feat.a☆ru[A]",
+   "Coefficient": 1.170064559,
+   "Std. Error": 0.126921221,
+   "t value": 9.218825257,
+   "Pr(>|t|)": 0.00000333
  },
  {
-   "Song title": "moon_child[A]",
-   "Coefficient": 1.078829668,
-   "Std. Error": 0.029329847,
-   "t value": 36.78265639,
-   "Pr(>|t|)": 5.25e-12
+   "Song title": "Close the World feat.a☆ru[L]",
+   "Coefficient": 1.28893439,
+   "Std. Error": 0.102638079,
+   "t value": 12.55805257,
+   "Pr(>|t|)": 1.9e-7
  },
  {
-   "Song title": "one or eight[A]",
-   "Coefficient": 1.019995335,
-   "Std. Error": 0.046887018,
-   "t value": 21.75432298,
-   "Pr(>|t|)": 9.42e-10
+   "Song title": "DARK LEGACY[A]",
+   "Coefficient": 1.261110643,
+   "Std. Error": 0.059714789,
+   "t value": 21.11889965,
+   "Pr(>|t|)": 1.26e-9
  },
  {
-   "Song title": "PLEASE DON'T GO[A]",
-   "Coefficient": 0.955818317,
-   "Std. Error": 0.034691036,
-   "t value": 27.55231427,
-   "Pr(>|t|)": 9.19e-11
+   "Song title": "Feel The Beat[A]",
+   "Coefficient": 1.218964713,
+   "Std. Error": 0.037571682,
+   "t value": 32.44370921,
+   "Pr(>|t|)": 1.82e-11
  },
  {
-   "Song title": "桜[A]",
-   "Coefficient": 1.360309207,
-   "Std. Error": 0.032838431,
-   "t value": 41.42430531,
-   "Pr(>|t|)": 1.61e-12
+   "Song title": "Feel The Beat[L]",
+   "Coefficient": 1.184919491,
+   "Std. Error": 0.04420754,
+   "t value": 26.80356061,
+   "Pr(>|t|)": 1.21e-10
  },
  {
-   "Song title": "A[A]",
-   "Coefficient": 1.205722421,
-   "Std. Error": 0.044338353,
-   "t value": 27.19366763,
-   "Pr(>|t|)": 1.05e-10
+   "Song title": "INSOMNIA[A]",
+   "Coefficient": 1.005650511,
+   "Std. Error": 0.053253445,
+   "t value": 18.88423406,
+   "Pr(>|t|)": 3.76e-9
  },
  {
-   "Song title": "Colors (radio edit)[A]",
-   "Coefficient": 1.070338603,
-   "Std. Error": 0.046392514,
-   "t value": 23.07136456,
-   "Pr(>|t|)": 5.29e-10
+   "Song title": "IX[A]",
+   "Coefficient": 1.436872949,
+   "Std. Error": 0.156831429,
+   "t value": 9.161894119,
+   "Pr(>|t|)": 0.00000352
  },
  {
-   "Song title": "V[A]",
-   "Coefficient": 0.852619842,
-   "Std. Error": 0.040605884,
-   "t value": 20.99744538,
-   "Pr(>|t|)": 1.33e-9
+   "Song title": "KAISER PHOENIX[A]",
+   "Coefficient": 1.220376677,
+   "Std. Error": 0.023875569,
+   "t value": 51.11403598,
+   "Pr(>|t|)": 1.99e-13
  },
  {
-   "Song title": "Artist[A]",
-   "Coefficient": 1.37923428,
-   "Std. Error": 0.097733849,
-   "t value": 14.11214537,
-   "Pr(>|t|)": 6.28e-8
+   "Song title": "KAISER PHOENIX[L]",
+   "Coefficient": 1.292231733,
+   "Std. Error": 0.093351898,
+   "t value": 13.84258664,
+   "Pr(>|t|)": 7.54e-8
  },
  {
-   "Song title": "BEAT PRISONER[A]",
-   "Coefficient": 1.268309079,
-   "Std. Error": 0.04736105,
-   "t value": 26.77958089,
-   "Pr(>|t|)": 1.22e-10
+   "Song title": "Last Dance[A]",
+   "Coefficient": 1.272812915,
+   "Std. Error": 0.10412314,
+   "t value": 12.22411194,
+   "Pr(>|t|)": 2.45e-7
  },
  {
-   "Song title": "Double Dribble[A]",
-   "Coefficient": 0.975508819,
-   "Std. Error": 0.024203219,
-   "t value": 40.30492003,
-   "Pr(>|t|)": 2.11e-12
+   "Song title": "PUNISHER[A]",
+   "Coefficient": 1.300146556,
+   "Std. Error": 0.10943899,
+   "t value": 11.88010373,
+   "Pr(>|t|)": 3.21e-7
  },
  {
-   "Song title": "Friction[!]Function[A]",
-   "Coefficient": 0.988457978,
-   "Std. Error": 0.036434857,
-   "t value": 27.12945928,
-   "Pr(>|t|)": 1.07e-10
+   "Song title": "Sigmund[A]",
+   "Coefficient": 0.869789358,
+   "Std. Error": 0.058792287,
+   "t value": 14.79427658,
+   "Pr(>|t|)": 3.99e-8
  },
  {
-   "Song title": "ORCA[A]",
-   "Coefficient": 0.762265444,
-   "Std. Error": 0.081116319,
-   "t value": 9.397189728,
-   "Pr(>|t|)": 0.0000028
+   "Song title": "Sigmund[L]",
+   "Coefficient": 1.421592548,
+   "Std. Error": 0.083936354,
+   "t value": 16.93655348,
+   "Pr(>|t|)": 1.08e-8
  },
  {
-   "Song title": "ピアノ協奏曲第1番”蠍火” (BlackY Remix)[A]",
-   "Coefficient": 1.083304617,
-   "Std. Error": 0.044964348,
-   "t value": 24.09252367,
-   "Pr(>|t|)": 3.45e-10
+   "Song title": "VOX UP[A]",
+   "Coefficient": 1.025935234,
+   "Std. Error": 0.062559415,
+   "t value": 16.39937374,
+   "Pr(>|t|)": 1.48e-8
  },
  {
-   "Song title": "魅惑のYUMMYスイーツ[A]",
-   "Coefficient": 1.133228023,
-   "Std. Error": 0.038588239,
-   "t value": 29.36718669,
-   "Pr(>|t|)": 4.89e-11
+   "Song title": "Verflucht[A]",
+   "Coefficient": 1.389930352,
+   "Std. Error": 0.153909108,
+   "t value": 9.030851821,
+   "Pr(>|t|)": 0.00000401
  },
  {
-   "Song title": "Carry Me Away[A]",
-   "Coefficient": 1.137749333,
-   "Std. Error": 0.018155005,
-   "t value": 62.66863266,
-   "Pr(>|t|)": 2.6e-14
+   "Song title": "Verflucht[L]",
+   "Coefficient": 1.383333808,
+   "Std. Error": 0.110439709,
+   "t value": 12.52569222,
+   "Pr(>|t|)": 1.95e-7
+ },
+ {
+   "Song title": "invoker[A]",
+   "Coefficient": 1.08907826,
+   "Std. Error": 0.043017503,
+   "t value": 25.31709639,
+   "Pr(>|t|)": 2.12e-10
+ },
+ {
+   "Song title": "invoker[L]",
+   "Coefficient": 1.242310374,
+   "Std. Error": 0.048230439,
+   "t value": 25.7578079,
+   "Pr(>|t|)": 1.79e-10
+ },
+ {
+   "Song title": "ra'am[A]",
+   "Coefficient": 0.90859545,
+   "Std. Error": 0.058595003,
+   "t value": 15.50636407,
+   "Pr(>|t|)": 2.54e-8
+ },
+ {
+   "Song title": "廿[L]",
+   "Coefficient": 1.171353924,
+   "Std. Error": 0.057661252,
+   "t value": 20.31440337,
+   "Pr(>|t|)": 1.84e-9
+ },
+ {
+   "Song title": "旋律のドグマ～Miserables～[A]",
+   "Coefficient": 1.055443735,
+   "Std. Error": 0.201256286,
+   "t value": 5.244277125,
+   "Pr(>|t|)": 0.000376474
+ },
+ {
+   "Song title": "海神[A]",
+   "Coefficient": 1.061633588,
+   "Std. Error": 0.0388925,
+   "t value": 27.296615,
+   "Pr(>|t|)": 1.01e-10
+ },
+ {
+   "Song title": "煉獄のエルフェリア[A]",
+   "Coefficient": 1.223732231,
+   "Std. Error": 0.056446189,
+   "t value": 21.67962546,
+   "Pr(>|t|)": 9.74e-10
+ },
+ {
+   "Song title": "疾風迅雷[A]",
+   "Coefficient": 1.168644104,
+   "Std. Error": 0.04273874,
+   "t value": 27.34390649,
+   "Pr(>|t|)": 9.91e-11
+ },
+ {
+   "Song title": "疾風迅雷[L]",
+   "Coefficient": 1.456108264,
+   "Std. Error": 0.119598108,
+   "t value": 12.17501089,
+   "Pr(>|t|)": 2.55e-7
+ },
+ {
+   "Song title": "轟け！恋のビーンボール！！[A]",
+   "Coefficient": 1.351367121,
+   "Std. Error": 0.054562922,
+   "t value": 24.7671325,
+   "Pr(>|t|)": 2.63e-10
+ },
+ {
+   "Song title": "Confiserie[A]",
+   "Coefficient": 1.220603576,
+   "Std. Error": 0.154767159,
+   "t value": 7.886709179,
+   "Pr(>|t|)": 0.0000133
+ },
+ {
+   "Song title": "DAY DREAM[A]",
+   "Coefficient": 1.651710893,
+   "Std. Error": 0.145211159,
+   "t value": 11.37454522,
+   "Pr(>|t|)": 4.83e-7
+ },
+ {
+   "Song title": "Devilz Staircase[A]",
+   "Coefficient": 1.17094626,
+   "Std. Error": 0.079443528,
+   "t value": 14.7393537,
+   "Pr(>|t|)": 4.14e-8
+ },
+ {
+   "Song title": "Elemental Creation[A]",
+   "Coefficient": 1.281646292,
+   "Std. Error": 0.082968448,
+   "t value": 15.44739384,
+   "Pr(>|t|)": 2.64e-8
+ },
+ {
+   "Song title": "GAIA[A]",
+   "Coefficient": 1.255107603,
+   "Std. Error": 0.165248345,
+   "t value": 7.595280932,
+   "Pr(>|t|)": 0.0000185
+ },
+ {
+   "Song title": "Hollywood Galaxy[A]",
+   "Coefficient": 1.038560165,
+   "Std. Error": 0.193984898,
+   "t value": 5.35381967,
+   "Pr(>|t|)": 0.000321849
+ },
+ {
+   "Song title": "Hollywood Galaxy[A]",
+   "Coefficient": 1.038560165,
+   "Std. Error": 0.193984898,
+   "t value": 5.35381967,
+   "Pr(>|t|)": 0.000321849
+ },
+ {
+   "Song title": "JOMANDA[A]",
+   "Coefficient": 1.033559819,
+   "Std. Error": 0.055907131,
+   "t value": 18.48708402,
+   "Pr(>|t|)": 4.62e-9
+ },
+ {
+   "Song title": "Liberation[A]",
+   "Coefficient": 1.406436548,
+   "Std. Error": 0.197557152,
+   "t value": 7.119137595,
+   "Pr(>|t|)": 0.0000322
+ },
+ {
+   "Song title": "Little Star[A]",
+   "Coefficient": 1.214551668,
+   "Std. Error": 0.108428232,
+   "t value": 11.20143379,
+   "Pr(>|t|)": 5.57e-7
+ },
+ {
+   "Song title": "Plan 8[A]",
+   "Coefficient": 0.937900571,
+   "Std. Error": 0.033198033,
+   "t value": 28.25169129,
+   "Pr(>|t|)": 7.18e-11
+ },
+ {
+   "Song title": "Proof of the existence[A]",
+   "Coefficient": 1.410499352,
+   "Std. Error": 0.042071029,
+   "t value": 33.52661917,
+   "Pr(>|t|)": 1.32e-11
+ },
+ {
+   "Song title": "STULTI[A]",
+   "Coefficient": 1.090189112,
+   "Std. Error": 0.047216524,
+   "t value": 23.08914363,
+   "Pr(>|t|)": 5.25e-10
+ },
+ {
+   "Song title": "SYNC-ANTHEM[A]",
+   "Coefficient": 1.309287937,
+   "Std. Error": 0.060886914,
+   "t value": 21.50360169,
+   "Pr(>|t|)": 1.06e-9
+ },
+ {
+   "Song title": "Sol Cosine Job 2[A]",
+   "Coefficient": 1.460736382,
+   "Std. Error": 0.166083495,
+   "t value": 8.795192954,
+   "Pr(>|t|)": 0.00000509
+ },
+ {
+   "Song title": "Thor's Hammer[A]",
+   "Coefficient": 1.37830019,
+   "Std. Error": 0.059752956,
+   "t value": 23.06664427,
+   "Pr(>|t|)": 5.3e-10
+ },
+ {
+   "Song title": "Timepiece phase II[A]",
+   "Coefficient": 1.083955753,
+   "Std. Error": 0.045013475,
+   "t value": 24.08069485,
+   "Pr(>|t|)": 3.47e-10
+ },
+ {
+   "Song title": "Timepiece phase II[A]",
+   "Coefficient": 1.083955753,
+   "Std. Error": 0.045013475,
+   "t value": 24.08069485,
+   "Pr(>|t|)": 3.47e-10
+ },
+ {
+   "Song title": "Timepiece phase II (CN Ver.)[A]",
+   "Coefficient": 0.947230423,
+   "Std. Error": 0.044018524,
+   "t value": 21.5189048,
+   "Pr(>|t|)": 1.05e-9
+ },
+ {
+   "Song title": "True Blue[A]",
+   "Coefficient": 1.064836112,
+   "Std. Error": 0.032549929,
+   "t value": 32.71393065,
+   "Pr(>|t|)": 1.68e-11
+ },
+ {
+   "Song title": "Valanga[A]",
+   "Coefficient": 1.125611539,
+   "Std. Error": 0.019717974,
+   "t value": 57.08555706,
+   "Pr(>|t|)": 6.6e-14
+ },
+ {
+   "Song title": "Zirkfied[A]",
+   "Coefficient": 1.112642438,
+   "Std. Error": 0.103314141,
+   "t value": 10.76950773,
+   "Pr(>|t|)": 8.02e-7
+ },
+ {
+   "Song title": "neu[A]",
+   "Coefficient": 1.38507827,
+   "Std. Error": 0.133419957,
+   "t value": 10.38134251,
+   "Pr(>|t|)": 0.00000113
+ },
+ {
+   "Song title": "ΕΛΠΙΣ[A]",
+   "Coefficient": 1.421286452,
+   "Std. Error": 0.14147983,
+   "t value": 10.04585924,
+   "Pr(>|t|)": 0.00000152
+ },
+ {
+   "Song title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)[A]",
+   "Coefficient": 1.265748419,
+   "Std. Error": 0.156349348,
+   "t value": 8.095642447,
+   "Pr(>|t|)": 0.0000106
+ },
+ {
+   "Song title": "たまゆら[A]",
+   "Coefficient": 1.413489704,
+   "Std. Error": 0.072304606,
+   "t value": 19.54909635,
+   "Pr(>|t|)": 2.68e-9
+ },
+ {
+   "Song title": "アストライアの双皿[A]",
+   "Coefficient": 1.159199046,
+   "Std. Error": 0.043557582,
+   "t value": 26.61302551,
+   "Pr(>|t|)": 1.29e-10
+ },
+ {
+   "Song title": "キャトられ恋はモ～モク[A]",
+   "Coefficient": 1.374247041,
+   "Std. Error": 0.11034115,
+   "t value": 12.45452891,
+   "Pr(>|t|)": 2.06e-7
+ },
+ {
+   "Song title": "シュレーディンガーの猫[A]",
+   "Coefficient": 1.201013021,
+   "Std. Error": 0.058559396,
+   "t value": 20.50931369,
+   "Pr(>|t|)": 1.68e-9
+ },
+ {
+   "Song title": "トリカゴノ鳳凰[A]",
+   "Coefficient": 1.102453072,
+   "Std. Error": 0.059678394,
+   "t value": 18.47323617,
+   "Pr(>|t|)": 4.66e-9
+ },
+ {
+   "Song title": "仮想空間の旅人たち[L]",
+   "Coefficient": 1.284708395,
+   "Std. Error": 0.042418054,
+   "t value": 30.28683033,
+   "Pr(>|t|)": 3.61e-11
+ },
+ {
+   "Song title": "即席！脳直★ミュージックシステム[A]",
+   "Coefficient": 1.120199941,
+   "Std. Error": 0.043239519,
+   "t value": 25.90685492,
+   "Pr(>|t|)": 1.69e-10
+ },
+ {
+   "Song title": "狂イ咲ケ焔ノ華[A]",
+   "Coefficient": 1.170451539,
+   "Std. Error": 0.060397369,
+   "t value": 19.37918099,
+   "Pr(>|t|)": 2.92e-9
+ },
+ {
+   "Song title": "音楽[A]",
+   "Coefficient": 1.576435568,
+   "Std. Error": 0.140950841,
+   "t value": 11.18429346,
+   "Pr(>|t|)": 5.65e-7
+ },
+ {
+   "Song title": "龍と少女とデコヒーレンス[L]",
+   "Coefficient": 1.188087925,
+   "Std. Error": 0.047829078,
+   "t value": 24.84028486,
+   "Pr(>|t|)": 2.56e-10
+ },
+ {
+   "Song title": "BLACK.by X-Cross Fade[A]",
+   "Coefficient": 1.017776902,
+   "Std. Error": 0.045229449,
+   "t value": 22.50252707,
+   "Pr(>|t|)": 6.76e-10
+ },
+ {
+   "Song title": "DIAVOLO[A]",
+   "Coefficient": 1.336923582,
+   "Std. Error": 0.056959486,
+   "t value": 23.47148257,
+   "Pr(>|t|)": 4.47e-10
+ },
+ {
+   "Song title": "F[A]",
+   "Coefficient": 1.071568949,
+   "Std. Error": 0.033040023,
+   "t value": 32.43245185,
+   "Pr(>|t|)": 1.83e-11
+ },
+ {
+   "Song title": "HAERETICUS[A]",
+   "Coefficient": 1.336345669,
+   "Std. Error": 0.049822144,
+   "t value": 26.82232351,
+   "Pr(>|t|)": 1.2e-10
+ },
+ {
+   "Song title": "NNRT[A]",
+   "Coefficient": 1.347556462,
+   "Std. Error": 0.060756311,
+   "t value": 22.17969531,
+   "Pr(>|t|)": 7.79e-10
+ },
+ {
+   "Song title": "QUANTUM TELEPORTATION[L]",
+   "Coefficient": 1.126440055,
+   "Std. Error": 0.153670933,
+   "t value": 7.330208992,
+   "Pr(>|t|)": 0.0000251
+ },
+ {
+   "Song title": "Snake Stick[A]",
+   "Coefficient": 0.915482252,
+   "Std. Error": 0.032082833,
+   "t value": 28.53495662,
+   "Pr(>|t|)": 6.5e-11
+ },
+ {
+   "Song title": "The Limbo[A]",
+   "Coefficient": 1.203279048,
+   "Std. Error": 0.089883572,
+   "t value": 13.3870853,
+   "Pr(>|t|)": 1.04e-7
+ },
+ {
+   "Song title": "The Sampling Paradise[A]",
+   "Coefficient": 1.179620024,
+   "Std. Error": 0.093827209,
+   "t value": 12.57225958,
+   "Pr(>|t|)": 1.88e-7
+ },
+ {
+   "Song title": "Thunderbolt[A]",
+   "Coefficient": 0.942686638,
+   "Std. Error": 0.061656928,
+   "t value": 15.28922493,
+   "Pr(>|t|)": 2.91e-8
+ },
+ {
+   "Song title": "Todestrieb[A]",
+   "Coefficient": 1.202987073,
+   "Std. Error": 0.047603549,
+   "t value": 25.27095354,
+   "Pr(>|t|)": 2.16e-10
+ },
+ {
+   "Song title": "WONDER WALKER[A]",
+   "Coefficient": 1.148086557,
+   "Std. Error": 0.030875106,
+   "t value": 37.18486183,
+   "Pr(>|t|)": 4.71e-12
+ },
+ {
+   "Song title": "YAKSHA[A]",
+   "Coefficient": 1.333091474,
+   "Std. Error": 0.074174329,
+   "t value": 17.97241029,
+   "Pr(>|t|)": 6.09e-9
+ },
+ {
+   "Song title": "fffff[A]",
+   "Coefficient": 1.157504211,
+   "Std. Error": 0.038012427,
+   "t value": 30.45067885,
+   "Pr(>|t|)": 3.42e-11
+ },
+ {
+   "Song title": "quaver♪[A]",
+   "Coefficient": 1.408286234,
+   "Std. Error": 0.077350487,
+   "t value": 18.2065594,
+   "Pr(>|t|)": 5.37e-9
+ },
+ {
+   "Song title": "天空の夜明け[A]",
+   "Coefficient": 1.188955679,
+   "Std. Error": 0.025660049,
+   "t value": 46.33489548,
+   "Pr(>|t|)": 5.28e-13
+ },
+ {
+   "Song title": "子供の落書き帳[A]",
+   "Coefficient": 1.141959013,
+   "Std. Error": 0.051189631,
+   "t value": 22.30840505,
+   "Pr(>|t|)": 7.36e-10
+ },
+ {
+   "Song title": "恋する☆宇宙戦争っ！！[A]",
+   "Coefficient": 1.117172983,
+   "Std. Error": 0.069689474,
+   "t value": 16.03072775,
+   "Pr(>|t|)": 1.84e-8
+ },
+ {
+   "Song title": "聖人の塔[A]",
+   "Coefficient": 1.004031215,
+   "Std. Error": 0.160237777,
+   "t value": 6.265883328,
+   "Pr(>|t|)": 0.0000931
+ },
+ {
+   "Song title": "ALBIDA[A]",
+   "Coefficient": 1.060153985,
+   "Std. Error": 0.131212348,
+   "t value": 8.079681516,
+   "Pr(>|t|)": 0.0000108
+ },
+ {
+   "Song title": "Broken[A]",
+   "Coefficient": 1.051887265,
+   "Std. Error": 0.018279543,
+   "t value": 57.54450557,
+   "Pr(>|t|)": 6.1e-14
+ },
+ {
+   "Song title": "Dances with Snow Fairies[A]",
+   "Coefficient": 1.176638784,
+   "Std. Error": 0.04323879,
+   "t value": 27.21257458,
+   "Pr(>|t|)": 1.04e-10
+ },
+ {
+   "Song title": "ELECTRIC MASSIVE DIVER[A]",
+   "Coefficient": 0.983523133,
+   "Std. Error": 0.057905429,
+   "t value": 16.98499015,
+   "Pr(>|t|)": 1.05e-8
+ },
+ {
+   "Song title": "New Castle Legions[A]",
+   "Coefficient": 1.167068843,
+   "Std. Error": 0.053212067,
+   "t value": 21.93240935,
+   "Pr(>|t|)": 8.7e-10
+ },
+ {
+   "Song title": "PARADISE LOST[A]",
+   "Coefficient": 1.148060215,
+   "Std. Error": 0.035143411,
+   "t value": 32.66786529,
+   "Pr(>|t|)": 1.7e-11
+ },
+ {
+   "Song title": "SPECIAL SUMMER CAMPAIGN![A]",
+   "Coefficient": 1.124759752,
+   "Std. Error": 0.057563392,
+   "t value": 19.53949743,
+   "Pr(>|t|)": 2.69e-9
+ },
+ {
+   "Song title": "Session 9 -Chronicles-[A]",
+   "Coefficient": 1.32274063,
+   "Std. Error": 0.114372178,
+   "t value": 11.56523079,
+   "Pr(>|t|)": 4.13e-7
+ },
+ {
+   "Song title": "Watch Out Pt.2[A]",
+   "Coefficient": 0.963123422,
+   "Std. Error": 0.030473254,
+   "t value": 31.60553306,
+   "Pr(>|t|)": 2.36e-11
+ },
+ {
+   "Song title": "perditus†paradisus[A]",
+   "Coefficient": 1.194059652,
+   "Std. Error": 0.031724623,
+   "t value": 37.63826153,
+   "Pr(>|t|)": 4.18e-12
+ },
+ {
+   "Song title": "reunion[A]",
+   "Coefficient": 1.142210084,
+   "Std. Error": 0.037540953,
+   "t value": 30.42570825,
+   "Pr(>|t|)": 3.45e-11
+ },
+ {
+   "Song title": "sakura storm[A]",
+   "Coefficient": 1.090085735,
+   "Std. Error": 0.039188359,
+   "t value": 27.81657021,
+   "Pr(>|t|)": 8.37e-11
+ },
+ {
+   "Song title": "sakura storm[A]",
+   "Coefficient": 1.090085735,
+   "Std. Error": 0.039188359,
+   "t value": 27.81657021,
+   "Pr(>|t|)": 8.37e-11
+ },
+ {
+   "Song title": "灼熱Beach Side Bunny[A]",
+   "Coefficient": 0.820681764,
+   "Std. Error": 0.041545385,
+   "t value": 19.75386114,
+   "Pr(>|t|)": 2.42e-9
+ },
+ {
+   "Song title": "灼熱Beach Side Bunny[A]",
+   "Coefficient": 0.820681764,
+   "Std. Error": 0.041545385,
+   "t value": 19.75386114,
+   "Pr(>|t|)": 2.42e-9
+ },
+ {
+   "Song title": "黒髪乱れし修羅となりて[A]",
+   "Coefficient": 0.816652872,
+   "Std. Error": 0.071361277,
+   "t value": 11.44392177,
+   "Pr(>|t|)": 4.56e-7
+ },
+ {
+   "Song title": "AIR RAID FROM THA UNDAGROUND[L]",
+   "Coefficient": 1.133256014,
+   "Std. Error": 0.157746495,
+   "t value": 7.184032935,
+   "Pr(>|t|)": 0.0000298
+ },
+ {
+   "Song title": "Almagest[A]",
+   "Coefficient": 1.371879185,
+   "Std. Error": 0.041832209,
+   "t value": 32.79480623,
+   "Pr(>|t|)": 1.64e-11
+ },
+ {
+   "Song title": "Bad Maniacs[A]",
+   "Coefficient": 1.291245034,
+   "Std. Error": 0.075693867,
+   "t value": 17.05878012,
+   "Pr(>|t|)": 1.01e-8
+ },
+ {
+   "Song title": "DOMINION[A]",
+   "Coefficient": 1.210994603,
+   "Std. Error": 0.149781959,
+   "t value": 8.085049833,
+   "Pr(>|t|)": 0.0000107
+ },
+ {
+   "Song title": "EXUSIA[A]",
+   "Coefficient": 0.905734864,
+   "Std. Error": 0.205421655,
+   "t value": 4.409149869,
+   "Pr(>|t|)": 0.001316164
+ },
+ {
+   "Song title": "Evans[A]",
+   "Coefficient": 1.046687411,
+   "Std. Error": 0.040082695,
+   "t value": 26.11319939,
+   "Pr(>|t|)": 1.56e-10
+ },
+ {
+   "Song title": "G59[A]",
+   "Coefficient": 1.393406561,
+   "Std. Error": 0.061584481,
+   "t value": 22.62593661,
+   "Pr(>|t|)": 6.41e-10
+ },
+ {
+   "Song title": "GOLDEN CROSS[A]",
+   "Coefficient": 1.053528472,
+   "Std. Error": 0.045801065,
+   "t value": 23.00227026,
+   "Pr(>|t|)": 5.45e-10
+ },
+ {
+   "Song title": "Red. by Full Metal Jacket[A]",
+   "Coefficient": 0.973004067,
+   "Std. Error": 0.032049665,
+   "t value": 30.35925897,
+   "Pr(>|t|)": 3.52e-11
+ },
+ {
+   "Song title": "SOLID STATE SQUAD[A]",
+   "Coefficient": 1.233069645,
+   "Std. Error": 0.09511665,
+   "t value": 12.96376238,
+   "Pr(>|t|)": 1.41e-7
+ },
+ {
+   "Song title": "SOLID STATE SQUAD[L]",
+   "Coefficient": 1.10416873,
+   "Std. Error": 0.049664722,
+   "t value": 22.23245553,
+   "Pr(>|t|)": 7.61e-10
+ },
+ {
+   "Song title": "eRAseRmOToRpHAntOM[A]",
+   "Coefficient": 1.320865501,
+   "Std. Error": 0.090901315,
+   "t value": 14.53076336,
+   "Pr(>|t|)": 4.74e-8
+ },
+ {
+   "Song title": "eRAseRmOToRpHAntOM[A]",
+   "Coefficient": 1.320865501,
+   "Std. Error": 0.090901315,
+   "t value": 14.53076336,
+   "Pr(>|t|)": 4.74e-8
+ },
+ {
+   "Song title": "mosaic[A]",
+   "Coefficient": 0.788883494,
+   "Std. Error": 0.038457964,
+   "t value": 20.51287748,
+   "Pr(>|t|)": 1.68e-9
  }
 ]
