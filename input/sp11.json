@@ -4838,7 +4838,7 @@
 	"difficulty": "4",
 	"notes": "1396",
 	"bpm": "170",
-	"textage": "28/",
+	"textage": "28/brkrules.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4849,7 +4849,7 @@
 	"difficulty": "4",
 	"notes": "1162",
 	"bpm": "144",
-	"textage": "28/",
+	"textage": "28/fw_marra.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4860,7 +4860,7 @@
 	"difficulty": "4",
 	"notes": "1222",
 	"bpm": "150",
-	"textage": "28/",
+	"textage": "28/gigaraid.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4871,7 +4871,7 @@
 	"difficulty": "4",
 	"notes": "1551",
 	"bpm": "157",
-	"textage": "28/",
+	"textage": "28/lastday.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4882,7 +4882,7 @@
 	"difficulty": "4",
 	"notes": "1405",
 	"bpm": "180",
-	"textage": "28/",
+	"textage": "28/lhcowboy.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4893,7 +4893,7 @@
 	"difficulty": "4",
 	"notes": "1244",
 	"bpm": "145",
-	"textage": "28/",
+	"textage": "28/ocanblue.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4904,7 +4904,7 @@
 	"difficulty": "4",
 	"notes": "1300",
 	"bpm": "170",
-	"textage": "28/",
+	"textage": "28/ovrslept.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4915,7 +4915,7 @@
 	"difficulty": "4",
 	"notes": "1461",
 	"bpm": "180",
-	"textage": "28/",
+	"textage": "28/psiempre.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4926,7 +4926,7 @@
 	"difficulty": "4",
 	"notes": "1212",
 	"bpm": "110",
-	"textage": "28/",
+	"textage": "28/swarmofs.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4937,7 +4937,7 @@
 	"difficulty": "4",
 	"notes": "1367",
 	"bpm": "162",
-	"textage": "28/",
+	"textage": "28/romatoma.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
@@ -4948,7 +4948,18 @@
 	"difficulty": "4",
 	"notes": "1422",
 	"bpm": "187",
-	"textage": "28/",
+	"textage": "28/_namidam.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "X-ray binary",
+	"wr": "-1",
+	"avg": "-1",
+	"difficulty": "4",
+	"notes": "1417",
+	"bpm": "150",
+	"textage": "28/x_binary.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
