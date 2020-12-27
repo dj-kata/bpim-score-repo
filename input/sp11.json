@@ -955,7 +955,7 @@
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1,
-	"deleted": true,
+	"removed": true,
 	"delVer": 26
 }, {
 	"title": "Discloze",
@@ -1187,7 +1187,9 @@
 	"textage": "25/fireball.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
-	"coef": -1
+	"coef": -1,
+        "removed":true,
+        "delVer":28
 }, {
 	"title": "FLOWER",
 	"difficulty": "4",
@@ -1309,7 +1311,7 @@
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1,
-	"deleted": true,
+	"removed": true,
 	"delVer": 26
 }, {
 	"title": "GIGA THRASH",
@@ -1849,7 +1851,9 @@
 	"textage": "22/m1dy_fes.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
-	"coef": -1
+	"coef": -1,
+        "removed":true,
+        "delVer":28
 }, {
 	"title": "Macuilxochitl",
 	"difficulty": "4",
@@ -1937,7 +1941,9 @@
 	"textage": "25/mira.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
-	"coef": -1
+	"coef": -1,
+        "removed":true,
+        "delVer":28
 }, {
 	"title": "MIRACLE MEETS",
 	"difficulty": "4",
@@ -2839,7 +2845,9 @@
 	"textage": "24/shoot_em.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
-	"coef": -1
+	"coef": -1,
+        "removed":true,
+        "delVer":28
 }, {
 	"title": "Six String Proof",
 	"difficulty": "4",
@@ -4368,7 +4376,9 @@
 	"textage": "23/_jfinala.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
-	"coef": -1
+	"coef": -1,
+        "removed":true,
+        "delVer":28
 }, {
 	"title": "鴉",
 	"difficulty": "4",
@@ -4960,6 +4970,39 @@
 	"notes": "1417",
 	"bpm": "150",
 	"textage": "28/x_binary.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "CONNECT-",
+	"wr": "-1",
+	"avg": "-1",
+	"difficulty": "4",
+	"notes": "1483",
+	"bpm": "150",
+	"textage": "28/connect_.html?1AB00",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "Crazy Jackpot",
+	"wr": "-1",
+	"avg": "-1",
+	"difficulty": "4",
+	"notes": "1429",
+	"bpm": "170",
+	"textage": "28/",
+	"difficultyLevel": "11",
+	"dpLevel": "0",
+	"coef": -1
+}, {
+	"title": "乱膳の舞姫",
+	"wr": "-1",
+	"avg": "-1",
+	"difficulty": "4",
+	"notes": "1382",
+	"bpm": "171",
+	"textage": "28/_feastof.html?1AB00",
 	"difficultyLevel": "11",
 	"dpLevel": "0",
 	"coef": -1
