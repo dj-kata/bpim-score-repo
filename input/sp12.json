@@ -480,6 +480,18 @@
       "coef":0.80599
    },
    {
+      "title":"Chronos",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"10",
+      "notes":"1538",
+      "bpm":"128",
+      "textage":"22/chronos.html?1XB00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"CHRONO DIVER -NORNIR-",
       "wr":"4428",
       "avg":"3630",
@@ -1502,6 +1514,18 @@
       "coef":0.8142
    },
    {
+      "title":"Ignis†Irae",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"4",
+      "notes":"1970",
+      "bpm":"188-191",
+      "textage":"28/ignisira.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"Illusionary Waterlily",
       "wr":"3578",
       "avg":"2890",
@@ -2222,6 +2246,18 @@
       "coef":1.43869
    },
    {
+      "title":"Parvati",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"4",
+      "notes":"1467",
+      "bpm":"205",
+      "textage":"28/parvati.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"perditus†paradisus",
       "wr":"4004",
       "avg":"3096",
@@ -2726,6 +2762,18 @@
       "coef":1.42159
    },
    {
+      "title":"Sinus Iridum",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"4",
+      "notes":"1803",
+      "bpm":"128-256",
+      "textage":"28/sinusiri.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"Sky High",
       "wr":"3857",
       "avg":"3188",
@@ -2916,6 +2964,18 @@
       "difficultyLevel":"12",
       "dpLevel":"0",
       "coef":0.89894
+   },
+   {
+      "title":"STEEL NEEDLE",
+      "difficulty":"10",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1701",
+      "bpm":"205",
+      "textage":"15/stneedle.html?1XC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
    },
    {
       "title":"StrayedCatz",
@@ -3952,6 +4012,18 @@
       "coef":1.42129
    },
    {
+      "title":"ΕΛΠΙΣ",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"10",
+      "notes":"1852",
+      "bpm":"175",
+      "textage":"20/_elpis.html?1XC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"魅惑のYUMMYスイーツ",
       "difficulty":"4",
       "wr":3137,
@@ -4754,5 +4826,29 @@
       "difficultyLevel":"12",
       "dpLevel":"0",
       "coef":1.06163
+   },
+   {
+      "title":"二人ノ廃城幽踊宴",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"4",
+      "notes":"1927",
+      "bpm":"280-316",
+      "textage":"28/_a_rvnant.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
+      "title":"伐折羅-vajra-",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"4",
+      "notes":"1877",
+      "bpm":"173",
+      "textage":"28/_vajra.html?1AC00",
+      "difficultyLevel":"12",
+      "dpLevel":"0",
+      "coef":-1
    }
 ]

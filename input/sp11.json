@@ -2074,6 +2074,18 @@
       "coef":-1
    },
    {
+      "title":"Jungle Eater",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1517",
+      "bpm":"184",
+      "textage":"28/jungleat.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"Kailua",
       "difficulty":"4",
       "wr":"2227",
@@ -2906,7 +2918,7 @@
       "coef":-1
    },
    {
-      "title":"POLꓘAMAИIA",
+      "title":"POLKAMAИIA",
       "wr":"2984",
       "avg":"2594",
       "difficulty":"4",
@@ -3340,6 +3352,18 @@
       "coef":-1
    },
    {
+      "title":"Rosa azuL",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1417",
+      "bpm":"155",
+      "textage":"28/rosaazul.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"ROZA DE ANDALUCIA",
       "difficulty":"4",
       "wr":"3101",
@@ -3702,6 +3726,18 @@
       "delVer":28
    },
    {
+      "title":"Sinus Iridum",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1101",
+      "bpm":"128-256",
+      "textage":"28/sinusiri.html?1HB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"Six String Proof",
       "difficulty":"4",
       "wr":"2581",
@@ -3997,6 +4033,18 @@
       "notes":"1345",
       "bpm":"155",
       "textage":"25/t_anubis.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
+      "title":"Tell me what you wish feat.らっぷびと",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1436",
+      "bpm":"203",
+      "textage":"28/tellwhat.html?1AB00",
       "difficultyLevel":"11",
       "dpLevel":"0",
       "coef":-1
@@ -5670,5 +5718,17 @@
       "coef":-1,
       "removed":true,
       "delVer":28
+   },
+   {
+      "title":"無意識のフィロソフィア",
+      "difficulty":"4",
+      "wr":"-1",
+      "avg":"-1",
+      "notes":"1682",
+      "bpm":"160",
+      "textage":"28/_unphilo.html?1AB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
    }
 ]
