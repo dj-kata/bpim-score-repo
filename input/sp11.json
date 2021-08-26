@@ -880,6 +880,18 @@
       "coef":-1
    },
    {
+      "title":"Chronos",
+      "wr":"-1",
+      "avg":"-1",
+      "difficulty":"10",
+      "notes":"1538",
+      "bpm":"128",
+      "textage":"22/chronos.html?1XB00",
+      "difficultyLevel":"11",
+      "dpLevel":"0",
+      "coef":-1
+   },
+   {
       "title":"City Never Sleeps (IIDX Edition)",
       "difficulty":"4",
       "wr":"2680",
@@ -3727,7 +3739,7 @@
    },
    {
       "title":"Sinus Iridum",
-      "difficulty":"4",
+      "difficulty":"3",
       "wr":"-1",
       "avg":"-1",
       "notes":"1101",
